@@ -4,6 +4,6 @@ class Solution(object):
             return n
         # last=self.fib(n-1)
         # slast=self.fib(n-2)
-        ans=self.fib(n-1)+self.fib(n-2)
-        return ans
+        # ans=self.fib(n-1)+self.fib(n-2)
+        return self.fib(n-1)+self.fib(n-2)
         
