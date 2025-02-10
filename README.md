@@ -78,4 +78,20 @@ This repository is **primarily for personal use**, but feel free to explore and 
 |  |
 | ------- |
 | [0058-length-of-last-word](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0058-length-of-last-word) |
+## Math
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/vtushar06/Leetcode-Submissions/tree/master/1013-fibonacci-number) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/vtushar06/Leetcode-Submissions/tree/master/1013-fibonacci-number) |
+## Recursion
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/vtushar06/Leetcode-Submissions/tree/master/1013-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/vtushar06/Leetcode-Submissions/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
