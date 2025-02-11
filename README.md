@@ -105,4 +105,12 @@ This repository is **primarily for personal use**, but feel free to explore and 
 | ------- |
 | [0231-power-of-two](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0342-power-of-four) |
+## Array
+|  |
+| ------- |
+| [1646-kth-missing-positive-number](https://github.com/vtushar06/Leetcode-Submissions/tree/master/1646-kth-missing-positive-number) |
+## Binary Search
+|  |
+| ------- |
+| [1646-kth-missing-positive-number](https://github.com/vtushar06/Leetcode-Submissions/tree/master/1646-kth-missing-positive-number) |
 <!---LeetCode Topics End-->
