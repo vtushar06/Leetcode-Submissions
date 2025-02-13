@@ -78,6 +78,7 @@ This repository is **primarily for personal use**, but feel free to explore and 
 |  |
 | ------- |
 | [0058-length-of-last-word](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0058-length-of-last-word) |
+| [0344-reverse-string](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0344-reverse-string) |
 ## Math
 |  |
 | ------- |
@@ -135,4 +136,8 @@ This repository is **primarily for personal use**, but feel free to explore and 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0078-subsets) |
+## Two Pointers
+|  |
+| ------- |
+| [0344-reverse-string](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0344-reverse-string) |
 <!---LeetCode Topics End-->
