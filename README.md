@@ -122,11 +122,13 @@ This repository is **primarily for personal use**, but feel free to explore and 
 | [0078-subsets](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0078-subsets) |
 | [0410-split-array-largest-sum](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0410-split-array-largest-sum) |
 | [0724-find-pivot-index](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0724-find-pivot-index) |
+| [1046-max-consecutive-ones-iii](https://github.com/vtushar06/Leetcode-Submissions/tree/master/1046-max-consecutive-ones-iii) |
 | [1646-kth-missing-positive-number](https://github.com/vtushar06/Leetcode-Submissions/tree/master/1646-kth-missing-positive-number) |
 ## Binary Search
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0410-split-array-largest-sum) |
+| [1046-max-consecutive-ones-iii](https://github.com/vtushar06/Leetcode-Submissions/tree/master/1046-max-consecutive-ones-iii) |
 | [1646-kth-missing-positive-number](https://github.com/vtushar06/Leetcode-Submissions/tree/master/1646-kth-missing-positive-number) |
 ## Greedy
 |  |
@@ -137,6 +139,7 @@ This repository is **primarily for personal use**, but feel free to explore and 
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0410-split-array-largest-sum) |
 | [0724-find-pivot-index](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0724-find-pivot-index) |
+| [1046-max-consecutive-ones-iii](https://github.com/vtushar06/Leetcode-Submissions/tree/master/1046-max-consecutive-ones-iii) |
 ## Backtracking
 |  |
 | ------- |
@@ -158,4 +161,5 @@ This repository is **primarily for personal use**, but feel free to explore and 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [1046-max-consecutive-ones-iii](https://github.com/vtushar06/Leetcode-Submissions/tree/master/1046-max-consecutive-ones-iii) |
 <!---LeetCode Topics End-->
