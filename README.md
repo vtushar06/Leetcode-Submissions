@@ -91,6 +91,7 @@ This repository is **primarily for personal use**, but feel free to explore and 
 | [0231-power-of-two](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0342-power-of-four) |
 | [1013-fibonacci-number](https://github.com/vtushar06/Leetcode-Submissions/tree/master/1013-fibonacci-number) |
+| [2571-find-the-pivot-integer](https://github.com/vtushar06/Leetcode-Submissions/tree/master/2571-find-the-pivot-integer) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -144,6 +145,7 @@ This repository is **primarily for personal use**, but feel free to explore and 
 | [0724-find-pivot-index](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0724-find-pivot-index) |
 | [0966-binary-subarrays-with-sum](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/vtushar06/Leetcode-Submissions/tree/master/1046-max-consecutive-ones-iii) |
+| [2571-find-the-pivot-integer](https://github.com/vtushar06/Leetcode-Submissions/tree/master/2571-find-the-pivot-integer) |
 | [2714-left-and-right-sum-differences](https://github.com/vtushar06/Leetcode-Submissions/tree/master/2714-left-and-right-sum-differences) |
 ## Backtracking
 |  |
