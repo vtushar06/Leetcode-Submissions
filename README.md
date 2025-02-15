@@ -119,6 +119,7 @@ This repository is **primarily for personal use**, but feel free to explore and 
 ## Array
 |  |
 | ------- |
+| [0039-combination-sum](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0039-combination-sum) |
 | [0078-subsets](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0078-subsets) |
 | [0410-split-array-largest-sum](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0410-split-array-largest-sum) |
 | [0724-find-pivot-index](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0724-find-pivot-index) |
@@ -145,6 +146,7 @@ This repository is **primarily for personal use**, but feel free to explore and 
 ## Backtracking
 |  |
 | ------- |
+| [0039-combination-sum](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0039-combination-sum) |
 | [0078-subsets](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0078-subsets) |
 ## Two Pointers
 |  |
