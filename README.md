@@ -79,6 +79,7 @@ This repository is **primarily for personal use**, but feel free to explore and 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0012-integer-to-roman) |
+| [0022-generate-parentheses](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0022-generate-parentheses) |
 | [0058-length-of-last-word](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0067-add-binary) |
 | [0344-reverse-string](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0344-reverse-string) |
@@ -97,6 +98,7 @@ This repository is **primarily for personal use**, but feel free to explore and 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0022-generate-parentheses) |
 | [0070-climbing-stairs](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0070-climbing-stairs) |
 | [0410-split-array-largest-sum](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0410-split-array-largest-sum) |
 | [1013-fibonacci-number](https://github.com/vtushar06/Leetcode-Submissions/tree/master/1013-fibonacci-number) |
@@ -152,6 +154,7 @@ This repository is **primarily for personal use**, but feel free to explore and 
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0039-combination-sum) |
 | [0078-subsets](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0078-subsets) |
 ## Two Pointers
