@@ -6,5 +6,5 @@ class Solution(object):
         value=dic[s[0]]    
         values=dic.values()
 
-        return True if all(value==value1 for value1 in values) else False
+        return all(value==value1 for value1 in values) 
         
