@@ -79,6 +79,7 @@ This repository is **primarily for personal use**, but feel free to explore and 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0013-roman-to-integer) |
 | [0022-generate-parentheses](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0022-generate-parentheses) |
 | [0058-length-of-last-word](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0067-add-binary) |
@@ -91,6 +92,7 @@ This repository is **primarily for personal use**, but feel free to explore and 
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0050-powx-n) |
 | [0067-add-binary](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0070-climbing-stairs) |
@@ -193,6 +195,7 @@ This repository is **primarily for personal use**, but feel free to explore and 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0013-roman-to-integer) |
 | [0560-subarray-sum-equals-k](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0560-subarray-sum-equals-k) |
 | [0966-binary-subarrays-with-sum](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0966-binary-subarrays-with-sum) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/vtushar06/Leetcode-Submissions/tree/master/1016-subarray-sums-divisible-by-k) |
