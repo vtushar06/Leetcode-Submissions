@@ -97,6 +97,7 @@ This repository is **primarily for personal use**, but feel free to explore and 
 | [0067-add-binary](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0342-power-of-four) |
 | [1013-fibonacci-number](https://github.com/vtushar06/Leetcode-Submissions/tree/master/1013-fibonacci-number) |
 | [2571-find-the-pivot-integer](https://github.com/vtushar06/Leetcode-Submissions/tree/master/2571-find-the-pivot-integer) |
@@ -126,6 +127,7 @@ This repository is **primarily for personal use**, but feel free to explore and 
 | [0067-add-binary](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0078-subsets) |
 | [0231-power-of-two](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0342-power-of-four) |
 ## Array
 |  |
@@ -136,6 +138,7 @@ This repository is **primarily for personal use**, but feel free to explore and 
 | [0078-subsets](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0079-word-search) |
 | [0169-majority-element](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0169-majority-element) |
+| [0268-missing-number](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0268-missing-number) |
 | [0410-split-array-largest-sum](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0410-split-array-largest-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0724-find-pivot-index) |
@@ -154,6 +157,7 @@ This repository is **primarily for personal use**, but feel free to explore and 
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0074-search-a-2d-matrix) |
+| [0268-missing-number](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0268-missing-number) |
 | [0410-split-array-largest-sum](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0410-split-array-largest-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/vtushar06/Leetcode-Submissions/tree/master/1046-max-consecutive-ones-iii) |
 | [1294-range-frequency-queries](https://github.com/vtushar06/Leetcode-Submissions/tree/master/1294-range-frequency-queries) |
@@ -204,6 +208,7 @@ This repository is **primarily for personal use**, but feel free to explore and 
 | [0012-integer-to-roman](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0169-majority-element) |
+| [0268-missing-number](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0268-missing-number) |
 | [0560-subarray-sum-equals-k](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0560-subarray-sum-equals-k) |
 | [0966-binary-subarrays-with-sum](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0966-binary-subarrays-with-sum) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/vtushar06/Leetcode-Submissions/tree/master/1016-subarray-sums-divisible-by-k) |
@@ -230,6 +235,7 @@ This repository is **primarily for personal use**, but feel free to explore and 
 | ------- |
 | [0015-3sum](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0015-3sum) |
 | [0169-majority-element](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0169-majority-element) |
+| [0268-missing-number](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0268-missing-number) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/vtushar06/Leetcode-Submissions/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/vtushar06/Leetcode-Submissions/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2469-longest-subsequence-with-limited-sum](https://github.com/vtushar06/Leetcode-Submissions/tree/master/2469-longest-subsequence-with-limited-sum) |
