@@ -143,6 +143,7 @@ This repository is **primarily for personal use**, but feel free to explore and 
 | [0078-subsets](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0079-word-search) |
 | [0169-majority-element](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0410-split-array-largest-sum](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0410-split-array-largest-sum) |
@@ -216,6 +217,7 @@ This repository is **primarily for personal use**, but feel free to explore and 
 | [0012-integer-to-roman](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -246,6 +248,7 @@ This repository is **primarily for personal use**, but feel free to explore and 
 | ------- |
 | [0015-3sum](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0015-3sum) |
 | [0169-majority-element](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0350-intersection-of-two-arrays-ii) |
