@@ -90,6 +90,7 @@ This repository is **primarily for personal use**, but feel free to explore and 
 | [0389-find-the-difference](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0389-find-the-difference) |
 | [1894-merge-strings-alternately](https://github.com/vtushar06/Leetcode-Submissions/tree/master/1894-merge-strings-alternately) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/vtushar06/Leetcode-Submissions/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
+| [2235-capitalize-the-title](https://github.com/vtushar06/Leetcode-Submissions/tree/master/2235-capitalize-the-title) |
 ## Math
 |  |
 | ------- |
