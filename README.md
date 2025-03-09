@@ -88,6 +88,7 @@ This repository is **primarily for personal use**, but feel free to explore and 
 | [0242-valid-anagram](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0344-reverse-string) |
 | [0389-find-the-difference](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0389-find-the-difference) |
+| [1537-maximum-score-after-splitting-a-string](https://github.com/vtushar06/Leetcode-Submissions/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1894-merge-strings-alternately](https://github.com/vtushar06/Leetcode-Submissions/tree/master/1894-merge-strings-alternately) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/vtushar06/Leetcode-Submissions/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2235-capitalize-the-title](https://github.com/vtushar06/Leetcode-Submissions/tree/master/2235-capitalize-the-title) |
@@ -192,6 +193,7 @@ This repository is **primarily for personal use**, but feel free to explore and 
 | [0966-binary-subarrays-with-sum](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0966-binary-subarrays-with-sum) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/vtushar06/Leetcode-Submissions/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1046-max-consecutive-ones-iii](https://github.com/vtushar06/Leetcode-Submissions/tree/master/1046-max-consecutive-ones-iii) |
+| [1537-maximum-score-after-splitting-a-string](https://github.com/vtushar06/Leetcode-Submissions/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [2469-longest-subsequence-with-limited-sum](https://github.com/vtushar06/Leetcode-Submissions/tree/master/2469-longest-subsequence-with-limited-sum) |
 | [2571-find-the-pivot-integer](https://github.com/vtushar06/Leetcode-Submissions/tree/master/2571-find-the-pivot-integer) |
 | [2714-left-and-right-sum-differences](https://github.com/vtushar06/Leetcode-Submissions/tree/master/2714-left-and-right-sum-differences) |
