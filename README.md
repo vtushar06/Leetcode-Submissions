@@ -100,6 +100,7 @@ This repository is **primarily for personal use**, but feel free to explore and 
 | [0050-powx-n](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0050-powx-n) |
 | [0067-add-binary](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0070-climbing-stairs) |
+| [0172-factorial-trailing-zeroes](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0172-factorial-trailing-zeroes) |
 | [0231-power-of-two](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0342-power-of-four) |
