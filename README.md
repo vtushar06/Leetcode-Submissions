@@ -118,6 +118,7 @@ This repository is **primarily for personal use**, but feel free to explore and 
 | [0118-pascals-triangle](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0410-split-array-largest-sum](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0410-split-array-largest-sum) |
+| [0747-min-cost-climbing-stairs](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0747-min-cost-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/vtushar06/Leetcode-Submissions/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/vtushar06/Leetcode-Submissions/tree/master/1236-n-th-tribonacci-number) |
 ## Recursion
@@ -166,6 +167,7 @@ This repository is **primarily for personal use**, but feel free to explore and 
 | [0540-single-element-in-a-sorted-array](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0724-find-pivot-index) |
+| [0747-min-cost-climbing-stairs](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0747-min-cost-climbing-stairs) |
 | [0792-binary-search](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0792-binary-search) |
 | [0966-binary-subarrays-with-sum](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0966-binary-subarrays-with-sum) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/vtushar06/Leetcode-Submissions/tree/master/1016-subarray-sums-divisible-by-k) |
