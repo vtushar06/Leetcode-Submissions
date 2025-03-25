@@ -98,6 +98,7 @@ This repository is **primarily for personal use**, but feel free to explore and 
 | [0012-integer-to-roman](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0050-powx-n) |
+| [0066-plus-one](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0070-climbing-stairs) |
 | [0172-factorial-trailing-zeroes](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0172-factorial-trailing-zeroes) |
@@ -155,6 +156,7 @@ This repository is **primarily for personal use**, but feel free to explore and 
 | [0039-combination-sum](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0039-combination-sum) |
 | [0053-maximum-subarray](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0054-spiral-matrix) |
+| [0066-plus-one](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0079-word-search) |
