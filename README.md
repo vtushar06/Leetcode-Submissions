@@ -102,6 +102,7 @@ This repository is **primarily for personal use**, but feel free to explore and 
 | [0067-add-binary](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0070-climbing-stairs) |
 | [0172-factorial-trailing-zeroes](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0172-factorial-trailing-zeroes) |
+| [0202-happy-number](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0268-missing-number) |
@@ -247,6 +248,7 @@ This repository is **primarily for personal use**, but feel free to explore and 
 | [0015-3sum](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0125-valid-palindrome](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0125-valid-palindrome) |
+| [0202-happy-number](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0202-happy-number) |
 | [0344-reverse-string](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0344-reverse-string) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1894-merge-strings-alternately](https://github.com/vtushar06/Leetcode-Submissions/tree/master/1894-merge-strings-alternately) |
@@ -263,6 +265,7 @@ This repository is **primarily for personal use**, but feel free to explore and 
 | [0012-integer-to-roman](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0268-missing-number) |
