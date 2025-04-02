@@ -108,6 +108,7 @@ This repository is **primarily for personal use**, but feel free to explore and 
 | [0268-missing-number](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0268-missing-number) |
 | [0279-perfect-squares](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0279-perfect-squares) |
 | [0342-power-of-four](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0342-power-of-four) |
+| [0628-maximum-product-of-three-numbers](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1013-fibonacci-number](https://github.com/vtushar06/Leetcode-Submissions/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/vtushar06/Leetcode-Submissions/tree/master/1236-n-th-tribonacci-number) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/vtushar06/Leetcode-Submissions/tree/master/1951-find-the-winner-of-the-circular-game) |
@@ -180,6 +181,7 @@ This repository is **primarily for personal use**, but feel free to explore and 
 | [0494-target-sum](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0494-target-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0560-subarray-sum-equals-k) |
+| [0628-maximum-product-of-three-numbers](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0724-find-pivot-index](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0724-find-pivot-index) |
 | [0747-min-cost-climbing-stairs](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0747-min-cost-climbing-stairs) |
 | [0792-binary-search](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0792-binary-search) |
@@ -310,6 +312,7 @@ This repository is **primarily for personal use**, but feel free to explore and 
 | [0268-missing-number](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0389-find-the-difference) |
+| [0628-maximum-product-of-three-numbers](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1388-greatest-sum-divisible-by-three](https://github.com/vtushar06/Leetcode-Submissions/tree/master/1388-greatest-sum-divisible-by-three) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/vtushar06/Leetcode-Submissions/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/vtushar06/Leetcode-Submissions/tree/master/2210-find-target-indices-after-sorting-array) |
