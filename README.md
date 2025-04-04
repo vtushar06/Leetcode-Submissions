@@ -201,6 +201,7 @@ This repository is **primarily for personal use**, but feel free to explore and 
 | [2665-minimum-time-to-repair-cars](https://github.com/vtushar06/Leetcode-Submissions/tree/master/2665-minimum-time-to-repair-cars) |
 | [2714-left-and-right-sum-differences](https://github.com/vtushar06/Leetcode-Submissions/tree/master/2714-left-and-right-sum-differences) |
 | [2722-prime-in-diagonal](https://github.com/vtushar06/Leetcode-Submissions/tree/master/2722-prime-in-diagonal) |
+| [3778-transform-array-by-parity](https://github.com/vtushar06/Leetcode-Submissions/tree/master/3778-transform-array-by-parity) |
 ## Binary Search
 |  |
 | ------- |
@@ -317,11 +318,13 @@ This repository is **primarily for personal use**, but feel free to explore and 
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/vtushar06/Leetcode-Submissions/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/vtushar06/Leetcode-Submissions/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2469-longest-subsequence-with-limited-sum](https://github.com/vtushar06/Leetcode-Submissions/tree/master/2469-longest-subsequence-with-limited-sum) |
+| [3778-transform-array-by-parity](https://github.com/vtushar06/Leetcode-Submissions/tree/master/3778-transform-array-by-parity) |
 ## Counting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0169-majority-element) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/vtushar06/Leetcode-Submissions/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
+| [3778-transform-array-by-parity](https://github.com/vtushar06/Leetcode-Submissions/tree/master/3778-transform-array-by-parity) |
 ## Design
 |  |
 | ------- |
