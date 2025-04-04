@@ -201,6 +201,7 @@ This repository is **primarily for personal use**, but feel free to explore and 
 | [2665-minimum-time-to-repair-cars](https://github.com/vtushar06/Leetcode-Submissions/tree/master/2665-minimum-time-to-repair-cars) |
 | [2714-left-and-right-sum-differences](https://github.com/vtushar06/Leetcode-Submissions/tree/master/2714-left-and-right-sum-differences) |
 | [2722-prime-in-diagonal](https://github.com/vtushar06/Leetcode-Submissions/tree/master/2722-prime-in-diagonal) |
+| [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/vtushar06/Leetcode-Submissions/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3778-transform-array-by-parity](https://github.com/vtushar06/Leetcode-Submissions/tree/master/3778-transform-array-by-parity) |
 ## Binary Search
 |  |
@@ -218,6 +219,7 @@ This repository is **primarily for personal use**, but feel free to explore and 
 | [2210-find-target-indices-after-sorting-array](https://github.com/vtushar06/Leetcode-Submissions/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2469-longest-subsequence-with-limited-sum](https://github.com/vtushar06/Leetcode-Submissions/tree/master/2469-longest-subsequence-with-limited-sum) |
 | [2665-minimum-time-to-repair-cars](https://github.com/vtushar06/Leetcode-Submissions/tree/master/2665-minimum-time-to-repair-cars) |
+| [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/vtushar06/Leetcode-Submissions/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Greedy
 |  |
 | ------- |
@@ -259,6 +261,7 @@ This repository is **primarily for personal use**, but feel free to explore and 
 | [0344-reverse-string](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0344-reverse-string) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1894-merge-strings-alternately](https://github.com/vtushar06/Leetcode-Submissions/tree/master/1894-merge-strings-alternately) |
+| [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/vtushar06/Leetcode-Submissions/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Simulation
 |  |
 | ------- |
@@ -318,6 +321,7 @@ This repository is **primarily for personal use**, but feel free to explore and 
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/vtushar06/Leetcode-Submissions/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/vtushar06/Leetcode-Submissions/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2469-longest-subsequence-with-limited-sum](https://github.com/vtushar06/Leetcode-Submissions/tree/master/2469-longest-subsequence-with-limited-sum) |
+| [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/vtushar06/Leetcode-Submissions/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3778-transform-array-by-parity](https://github.com/vtushar06/Leetcode-Submissions/tree/master/3778-transform-array-by-parity) |
 ## Counting
 |  |
