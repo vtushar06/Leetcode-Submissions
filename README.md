@@ -88,6 +88,7 @@ This repository is **primarily for personal use**, but feel free to explore and 
 | [0242-valid-anagram](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0344-reverse-string) |
 | [0389-find-the-difference](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0389-find-the-difference) |
+| [0412-fizz-buzz](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0412-fizz-buzz) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/vtushar06/Leetcode-Submissions/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1894-merge-strings-alternately](https://github.com/vtushar06/Leetcode-Submissions/tree/master/1894-merge-strings-alternately) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/vtushar06/Leetcode-Submissions/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
@@ -108,6 +109,7 @@ This repository is **primarily for personal use**, but feel free to explore and 
 | [0268-missing-number](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0268-missing-number) |
 | [0279-perfect-squares](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0279-perfect-squares) |
 | [0342-power-of-four](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0342-power-of-four) |
+| [0412-fizz-buzz](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0412-fizz-buzz) |
 | [0628-maximum-product-of-three-numbers](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1013-fibonacci-number](https://github.com/vtushar06/Leetcode-Submissions/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/vtushar06/Leetcode-Submissions/tree/master/1236-n-th-tribonacci-number) |
@@ -267,6 +269,7 @@ This repository is **primarily for personal use**, but feel free to explore and 
 | ------- |
 | [0054-spiral-matrix](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0067-add-binary) |
+| [0412-fizz-buzz](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0412-fizz-buzz) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/vtushar06/Leetcode-Submissions/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Hash Table
 |  |
