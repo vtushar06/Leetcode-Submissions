@@ -108,6 +108,7 @@ This repository is **primarily for personal use**, but feel free to explore and 
 | [0231-power-of-two](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0268-missing-number) |
 | [0279-perfect-squares](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0279-perfect-squares) |
+| [0292-nim-game](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0292-nim-game) |
 | [0342-power-of-four](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0342-power-of-four) |
 | [0412-fizz-buzz](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0412-fizz-buzz) |
 | [0628-maximum-product-of-three-numbers](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0628-maximum-product-of-three-numbers) |
@@ -381,4 +382,12 @@ This repository is **primarily for personal use**, but feel free to explore and 
 | ------- |
 | [0204-count-primes](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0204-count-primes) |
 | [2083-three-divisors](https://github.com/vtushar06/Leetcode-Submissions/tree/master/2083-three-divisors) |
+## Brainteaser
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0292-nim-game) |
+## Game Theory
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
