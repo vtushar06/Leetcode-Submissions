@@ -117,6 +117,7 @@ This repository is **primarily for personal use**, but feel free to explore and 
 | [1236-n-th-tribonacci-number](https://github.com/vtushar06/Leetcode-Submissions/tree/master/1236-n-th-tribonacci-number) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/vtushar06/Leetcode-Submissions/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2083-three-divisors](https://github.com/vtushar06/Leetcode-Submissions/tree/master/2083-three-divisors) |
+| [2491-smallest-even-multiple](https://github.com/vtushar06/Leetcode-Submissions/tree/master/2491-smallest-even-multiple) |
 | [2571-find-the-pivot-integer](https://github.com/vtushar06/Leetcode-Submissions/tree/master/2571-find-the-pivot-integer) |
 | [2722-prime-in-diagonal](https://github.com/vtushar06/Leetcode-Submissions/tree/master/2722-prime-in-diagonal) |
 ## Dynamic Programming
@@ -357,6 +358,7 @@ This repository is **primarily for personal use**, but feel free to explore and 
 | ------- |
 | [0204-count-primes](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0204-count-primes) |
 | [2083-three-divisors](https://github.com/vtushar06/Leetcode-Submissions/tree/master/2083-three-divisors) |
+| [2491-smallest-even-multiple](https://github.com/vtushar06/Leetcode-Submissions/tree/master/2491-smallest-even-multiple) |
 | [2722-prime-in-diagonal](https://github.com/vtushar06/Leetcode-Submissions/tree/master/2722-prime-in-diagonal) |
 ## Bucket Sort
 |  |
