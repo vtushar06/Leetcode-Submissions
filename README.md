@@ -400,5 +400,6 @@ This repository is **primarily for personal use**, but feel free to explore and 
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0203-remove-linked-list-elements](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0203-remove-linked-list-elements) |
 <!---LeetCode Topics End-->
