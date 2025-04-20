@@ -145,6 +145,7 @@ This repository is **primarily for personal use**, but feel free to explore and 
 | [0203-remove-linked-list-elements](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0231-power-of-two) |
+| [0234-palindrome-linked-list](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0234-palindrome-linked-list) |
 | [0342-power-of-four](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0342-power-of-four) |
 | [1013-fibonacci-number](https://github.com/vtushar06/Leetcode-Submissions/tree/master/1013-fibonacci-number) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/vtushar06/Leetcode-Submissions/tree/master/1951-find-the-winner-of-the-circular-game) |
@@ -270,6 +271,7 @@ This repository is **primarily for personal use**, but feel free to explore and 
 | [0125-valid-palindrome](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0141-linked-list-cycle) |
 | [0202-happy-number](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0202-happy-number) |
+| [0234-palindrome-linked-list](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0234-palindrome-linked-list) |
 | [0344-reverse-string](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0344-reverse-string) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1894-merge-strings-alternately](https://github.com/vtushar06/Leetcode-Submissions/tree/master/1894-merge-strings-alternately) |
@@ -411,4 +413,9 @@ This repository is **primarily for personal use**, but feel free to explore and 
 | [0141-linked-list-cycle](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0141-linked-list-cycle) |
 | [0203-remove-linked-list-elements](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0234-palindrome-linked-list) |
+## Stack
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
