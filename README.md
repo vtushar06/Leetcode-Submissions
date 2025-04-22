@@ -201,6 +201,7 @@ This repository is **primarily for personal use**, but feel free to explore and 
 | [0966-binary-subarrays-with-sum](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0966-binary-subarrays-with-sum) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/vtushar06/Leetcode-Submissions/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1046-max-consecutive-ones-iii](https://github.com/vtushar06/Leetcode-Submissions/tree/master/1046-max-consecutive-ones-iii) |
+| [1056-capacity-to-ship-packages-within-d-days](https://github.com/vtushar06/Leetcode-Submissions/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1221-element-appearing-more-than-25-in-sorted-array](https://github.com/vtushar06/Leetcode-Submissions/tree/master/1221-element-appearing-more-than-25-in-sorted-array) |
 | [1294-range-frequency-queries](https://github.com/vtushar06/Leetcode-Submissions/tree/master/1294-range-frequency-queries) |
 | [1388-greatest-sum-divisible-by-three](https://github.com/vtushar06/Leetcode-Submissions/tree/master/1388-greatest-sum-divisible-by-three) |
@@ -230,6 +231,7 @@ This repository is **primarily for personal use**, but feel free to explore and 
 | [0540-single-element-in-a-sorted-array](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0792-binary-search) |
 | [1046-max-consecutive-ones-iii](https://github.com/vtushar06/Leetcode-Submissions/tree/master/1046-max-consecutive-ones-iii) |
+| [1056-capacity-to-ship-packages-within-d-days](https://github.com/vtushar06/Leetcode-Submissions/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1294-range-frequency-queries](https://github.com/vtushar06/Leetcode-Submissions/tree/master/1294-range-frequency-queries) |
 | [1646-kth-missing-positive-number](https://github.com/vtushar06/Leetcode-Submissions/tree/master/1646-kth-missing-positive-number) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/vtushar06/Leetcode-Submissions/tree/master/2210-find-target-indices-after-sorting-array) |
