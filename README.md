@@ -111,6 +111,7 @@ This repository is **primarily for personal use**, but feel free to explore and 
 | [0292-nim-game](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0292-nim-game) |
 | [0342-power-of-four](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0342-power-of-four) |
 | [0412-fizz-buzz](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0412-fizz-buzz) |
+| [0441-arranging-coins](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0441-arranging-coins) |
 | [0507-perfect-number](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0507-perfect-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1013-fibonacci-number](https://github.com/vtushar06/Leetcode-Submissions/tree/master/1013-fibonacci-number) |
@@ -229,6 +230,7 @@ This repository is **primarily for personal use**, but feel free to explore and 
 | [0278-first-bad-version](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0278-first-bad-version) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0410-split-array-largest-sum](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0410-split-array-largest-sum) |
+| [0441-arranging-coins](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0441-arranging-coins) |
 | [0540-single-element-in-a-sorted-array](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0792-binary-search) |
 | [1046-max-consecutive-ones-iii](https://github.com/vtushar06/Leetcode-Submissions/tree/master/1046-max-consecutive-ones-iii) |
