@@ -179,6 +179,7 @@ This repository is **primarily for personal use**, but feel free to explore and 
 | [0079-word-search](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0079-word-search) |
 | [0118-pascals-triangle](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0162-find-peak-element](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0162-find-peak-element) |
 | [0164-maximum-gap](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0164-maximum-gap) |
 | [0169-majority-element](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0198-house-robber) |
@@ -217,6 +218,7 @@ This repository is **primarily for personal use**, but feel free to explore and 
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0074-search-a-2d-matrix) |
+| [0162-find-peak-element](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0162-find-peak-element) |
 | [0268-missing-number](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0278-first-bad-version) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0350-intersection-of-two-arrays-ii) |
