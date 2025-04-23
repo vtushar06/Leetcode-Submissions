@@ -80,6 +80,7 @@ This repository is **primarily for personal use**, but feel free to explore and 
 | [0003-longest-substring-without-repeating-characters](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0013-roman-to-integer) |
+| [0020-valid-parentheses](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0022-generate-parentheses) |
 | [0058-length-of-last-word](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0067-add-binary) |
@@ -432,5 +433,6 @@ This repository is **primarily for personal use**, but feel free to explore and 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0020-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
