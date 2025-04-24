@@ -437,6 +437,7 @@ This repository is **primarily for personal use**, but feel free to explore and 
 | [0234-palindrome-linked-list](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0234-palindrome-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0908-middle-of-the-linked-list) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/vtushar06/Leetcode-Submissions/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
+| [1765-merge-in-between-linked-lists](https://github.com/vtushar06/Leetcode-Submissions/tree/master/1765-merge-in-between-linked-lists) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/vtushar06/Leetcode-Submissions/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2573-remove-nodes-from-linked-list](https://github.com/vtushar06/Leetcode-Submissions/tree/master/2573-remove-nodes-from-linked-list) |
 ## Stack
