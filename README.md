@@ -155,6 +155,7 @@ This repository is **primarily for personal use**, but feel free to explore and 
 | [0342-power-of-four](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0342-power-of-four) |
 | [1013-fibonacci-number](https://github.com/vtushar06/Leetcode-Submissions/tree/master/1013-fibonacci-number) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/vtushar06/Leetcode-Submissions/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2573-remove-nodes-from-linked-list](https://github.com/vtushar06/Leetcode-Submissions/tree/master/2573-remove-nodes-from-linked-list) |
 ## Memoization
 |  |
 | ------- |
@@ -435,9 +436,15 @@ This repository is **primarily for personal use**, but feel free to explore and 
 | [0234-palindrome-linked-list](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0234-palindrome-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0908-middle-of-the-linked-list) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/vtushar06/Leetcode-Submissions/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
+| [2573-remove-nodes-from-linked-list](https://github.com/vtushar06/Leetcode-Submissions/tree/master/2573-remove-nodes-from-linked-list) |
 ## Stack
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0020-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0234-palindrome-linked-list) |
+| [2573-remove-nodes-from-linked-list](https://github.com/vtushar06/Leetcode-Submissions/tree/master/2573-remove-nodes-from-linked-list) |
+## Monotonic Stack
+|  |
+| ------- |
+| [2573-remove-nodes-from-linked-list](https://github.com/vtushar06/Leetcode-Submissions/tree/master/2573-remove-nodes-from-linked-list) |
 <!---LeetCode Topics End-->
