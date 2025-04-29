@@ -341,6 +341,7 @@ This repository is **primarily for personal use**, but feel free to explore and 
 | [0094-binary-tree-inorder-traversal](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0112-path-sum](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0145-binary-tree-postorder-traversal) |
 ## Matrix
 |  |
 | ------- |
@@ -457,6 +458,7 @@ This repository is **primarily for personal use**, but feel free to explore and 
 | [0020-valid-parentheses](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0020-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0234-palindrome-linked-list) |
 | [2573-remove-nodes-from-linked-list](https://github.com/vtushar06/Leetcode-Submissions/tree/master/2573-remove-nodes-from-linked-list) |
 ## Monotonic Stack
@@ -469,10 +471,12 @@ This repository is **primarily for personal use**, but feel free to explore and 
 | [0094-binary-tree-inorder-traversal](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0112-path-sum](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0145-binary-tree-postorder-traversal) |
 ## Binary Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0112-path-sum](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0145-binary-tree-postorder-traversal) |
 <!---LeetCode Topics End-->
