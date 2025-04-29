@@ -339,6 +339,7 @@ This repository is **primarily for personal use**, but feel free to explore and 
 | ------- |
 | [0079-word-search](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0079-word-search) |
 | [0094-binary-tree-inorder-traversal](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0094-binary-tree-inorder-traversal) |
+| [0112-path-sum](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0112-path-sum) |
 ## Matrix
 |  |
 | ------- |
@@ -414,6 +415,7 @@ This repository is **primarily for personal use**, but feel free to explore and 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0112-path-sum](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0112-path-sum) |
 | [0279-perfect-squares](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0279-perfect-squares) |
 ## Enumeration
 |  |
@@ -463,8 +465,10 @@ This repository is **primarily for personal use**, but feel free to explore and 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0094-binary-tree-inorder-traversal) |
+| [0112-path-sum](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0112-path-sum) |
 ## Binary Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0094-binary-tree-inorder-traversal) |
+| [0112-path-sum](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0112-path-sum) |
 <!---LeetCode Topics End-->
