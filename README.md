@@ -339,6 +339,7 @@ This repository is **primarily for personal use**, but feel free to explore and 
 | ------- |
 | [0079-word-search](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0079-word-search) |
 | [0094-binary-tree-inorder-traversal](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0094-binary-tree-inorder-traversal) |
+| [0100-same-tree](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0101-symmetric-tree) |
 | [0112-path-sum](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0144-binary-tree-preorder-traversal) |
@@ -419,6 +420,7 @@ This repository is **primarily for personal use**, but feel free to explore and 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0101-symmetric-tree) |
 | [0112-path-sum](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0112-path-sum) |
 | [0279-perfect-squares](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0279-perfect-squares) |
@@ -473,6 +475,7 @@ This repository is **primarily for personal use**, but feel free to explore and 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0094-binary-tree-inorder-traversal) |
+| [0100-same-tree](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0101-symmetric-tree) |
 | [0112-path-sum](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0144-binary-tree-preorder-traversal) |
@@ -482,6 +485,7 @@ This repository is **primarily for personal use**, but feel free to explore and 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0094-binary-tree-inorder-traversal) |
+| [0100-same-tree](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0101-symmetric-tree) |
 | [0112-path-sum](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0144-binary-tree-preorder-traversal) |
