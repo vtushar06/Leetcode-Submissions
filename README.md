@@ -345,6 +345,7 @@ This repository is **primarily for personal use**, but feel free to explore and 
 | [0112-path-sum](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0145-binary-tree-postorder-traversal) |
+| [0404-sum-of-left-leaves](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0404-sum-of-left-leaves) |
 | [1005-univalued-binary-tree](https://github.com/vtushar06/Leetcode-Submissions/tree/master/1005-univalued-binary-tree) |
 ## Matrix
 |  |
@@ -428,6 +429,7 @@ This repository is **primarily for personal use**, but feel free to explore and 
 | [0104-maximum-depth-of-binary-tree](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0112-path-sum) |
 | [0279-perfect-squares](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0279-perfect-squares) |
+| [0404-sum-of-left-leaves](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0404-sum-of-left-leaves) |
 | [1005-univalued-binary-tree](https://github.com/vtushar06/Leetcode-Submissions/tree/master/1005-univalued-binary-tree) |
 ## Enumeration
 |  |
@@ -487,6 +489,7 @@ This repository is **primarily for personal use**, but feel free to explore and 
 | [0112-path-sum](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0145-binary-tree-postorder-traversal) |
+| [0404-sum-of-left-leaves](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0404-sum-of-left-leaves) |
 | [0783-search-in-a-binary-search-tree](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0783-search-in-a-binary-search-tree) |
 | [1005-univalued-binary-tree](https://github.com/vtushar06/Leetcode-Submissions/tree/master/1005-univalued-binary-tree) |
 ## Binary Tree
@@ -501,6 +504,7 @@ This repository is **primarily for personal use**, but feel free to explore and 
 | [0112-path-sum](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0145-binary-tree-postorder-traversal) |
+| [0404-sum-of-left-leaves](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0404-sum-of-left-leaves) |
 | [0783-search-in-a-binary-search-tree](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0783-search-in-a-binary-search-tree) |
 | [1005-univalued-binary-tree](https://github.com/vtushar06/Leetcode-Submissions/tree/master/1005-univalued-binary-tree) |
 ## Binary Search Tree
