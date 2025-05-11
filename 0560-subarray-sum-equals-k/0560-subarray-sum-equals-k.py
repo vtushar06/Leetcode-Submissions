@@ -1,15 +1,12 @@
-class Solution(object):
-    def subarraySum(self, nums, k):
-        currentsum=0
-        l,r=0,0
-        map={0:1}
+class Solution:
+    def subarraySum(self, nums: List[int], k: int) -> int:
+        dic={0:1}
+        currsum=0
         count=0
-        while(r<len(nums)):
-            currentsum+=nums[r]
-            remainingsum=currentsum-k
-            if remainingsum in map:
-                count+=map[remainingsum]
-            map[currentsum]=map.get(currentsum,0)+1
-            r+=1
-        return count       
-
+        for num in nums:
+            currsum+=num
+            remaining=currsum-k
+            if remaining in dic:
+                count+=dic[remaining]
+            dic[currsum]=dic.get(currsum,0)+1  
+        return count      
