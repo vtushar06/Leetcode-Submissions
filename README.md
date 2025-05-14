@@ -216,6 +216,7 @@ This repository is **primarily for personal use**, but feel free to explore and 
 | [1388-greatest-sum-divisible-by-three](https://github.com/vtushar06/Leetcode-Submissions/tree/master/1388-greatest-sum-divisible-by-three) |
 | [1514-minimum-value-to-get-positive-step-by-step-sum](https://github.com/vtushar06/Leetcode-Submissions/tree/master/1514-minimum-value-to-get-positive-step-by-step-sum) |
 | [1646-kth-missing-positive-number](https://github.com/vtushar06/Leetcode-Submissions/tree/master/1646-kth-missing-positive-number) |
+| [1813-maximum-erasure-value](https://github.com/vtushar06/Leetcode-Submissions/tree/master/1813-maximum-erasure-value) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/vtushar06/Leetcode-Submissions/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2005-check-if-all-the-integers-in-a-range-are-covered](https://github.com/vtushar06/Leetcode-Submissions/tree/master/2005-check-if-all-the-integers-in-a-range-are-covered) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/vtushar06/Leetcode-Submissions/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
@@ -329,6 +330,7 @@ This repository is **primarily for personal use**, but feel free to explore and 
 | [0966-binary-subarrays-with-sum](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0966-binary-subarrays-with-sum) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/vtushar06/Leetcode-Submissions/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1294-range-frequency-queries](https://github.com/vtushar06/Leetcode-Submissions/tree/master/1294-range-frequency-queries) |
+| [1813-maximum-erasure-value](https://github.com/vtushar06/Leetcode-Submissions/tree/master/1813-maximum-erasure-value) |
 | [2005-check-if-all-the-integers-in-a-range-are-covered](https://github.com/vtushar06/Leetcode-Submissions/tree/master/2005-check-if-all-the-integers-in-a-range-are-covered) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/vtushar06/Leetcode-Submissions/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 ## Sliding Window
@@ -337,6 +339,7 @@ This repository is **primarily for personal use**, but feel free to explore and 
 | [0003-longest-substring-without-repeating-characters](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0966-binary-subarrays-with-sum](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/vtushar06/Leetcode-Submissions/tree/master/1046-max-consecutive-ones-iii) |
+| [1813-maximum-erasure-value](https://github.com/vtushar06/Leetcode-Submissions/tree/master/1813-maximum-erasure-value) |
 ## Depth-First Search
 |  |
 | ------- |
