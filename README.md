@@ -188,6 +188,7 @@ This repository is **primarily for personal use**, but feel free to explore and 
 | [0074-search-a-2d-matrix](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0079-word-search) |
+| [0088-merge-sorted-array](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0162-find-peak-element](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0162-find-peak-element) |
@@ -291,6 +292,7 @@ This repository is **primarily for personal use**, but feel free to explore and 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0061-rotate-list](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0061-rotate-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
+| [0088-merge-sorted-array](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0160-intersection-of-two-linked-lists) |
@@ -366,6 +368,7 @@ This repository is **primarily for personal use**, but feel free to explore and 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0015-3sum) |
+| [0088-merge-sorted-array](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0088-merge-sorted-array) |
 | [0164-maximum-gap](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0164-maximum-gap) |
 | [0169-majority-element](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0217-contains-duplicate) |
