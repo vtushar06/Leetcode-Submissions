@@ -125,6 +125,7 @@ This repository is **primarily for personal use**, but feel free to explore and 
 | [2238-a-number-after-a-double-reversal](https://github.com/vtushar06/Leetcode-Submissions/tree/master/2238-a-number-after-a-double-reversal) |
 | [2491-smallest-even-multiple](https://github.com/vtushar06/Leetcode-Submissions/tree/master/2491-smallest-even-multiple) |
 | [2571-find-the-pivot-integer](https://github.com/vtushar06/Leetcode-Submissions/tree/master/2571-find-the-pivot-integer) |
+| [2610-closest-prime-numbers-in-range](https://github.com/vtushar06/Leetcode-Submissions/tree/master/2610-closest-prime-numbers-in-range) |
 | [2722-prime-in-diagonal](https://github.com/vtushar06/Leetcode-Submissions/tree/master/2722-prime-in-diagonal) |
 ## Dynamic Programming
 |  |
@@ -414,6 +415,7 @@ This repository is **primarily for personal use**, but feel free to explore and 
 | [0204-count-primes](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0204-count-primes) |
 | [2083-three-divisors](https://github.com/vtushar06/Leetcode-Submissions/tree/master/2083-three-divisors) |
 | [2491-smallest-even-multiple](https://github.com/vtushar06/Leetcode-Submissions/tree/master/2491-smallest-even-multiple) |
+| [2610-closest-prime-numbers-in-range](https://github.com/vtushar06/Leetcode-Submissions/tree/master/2610-closest-prime-numbers-in-range) |
 | [2722-prime-in-diagonal](https://github.com/vtushar06/Leetcode-Submissions/tree/master/2722-prime-in-diagonal) |
 ## Bucket Sort
 |  |
