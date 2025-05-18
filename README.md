@@ -355,6 +355,7 @@ This repository is **primarily for personal use**, but feel free to explore and 
 | [0145-binary-tree-postorder-traversal](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0199-binary-tree-right-side-view) |
 | [0404-sum-of-left-leaves](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0404-sum-of-left-leaves) |
+| [0662-maximum-width-of-binary-tree](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0662-maximum-width-of-binary-tree) |
 | [1005-univalued-binary-tree](https://github.com/vtushar06/Leetcode-Submissions/tree/master/1005-univalued-binary-tree) |
 | [1079-sum-of-root-to-leaf-binary-numbers](https://github.com/vtushar06/Leetcode-Submissions/tree/master/1079-sum-of-root-to-leaf-binary-numbers) |
 ## Matrix
@@ -442,6 +443,7 @@ This repository is **primarily for personal use**, but feel free to explore and 
 | [0199-binary-tree-right-side-view](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0199-binary-tree-right-side-view) |
 | [0279-perfect-squares](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0279-perfect-squares) |
 | [0404-sum-of-left-leaves](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0404-sum-of-left-leaves) |
+| [0662-maximum-width-of-binary-tree](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0662-maximum-width-of-binary-tree) |
 | [0998-check-completeness-of-a-binary-tree](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0998-check-completeness-of-a-binary-tree) |
 | [1005-univalued-binary-tree](https://github.com/vtushar06/Leetcode-Submissions/tree/master/1005-univalued-binary-tree) |
 ## Enumeration
@@ -504,6 +506,7 @@ This repository is **primarily for personal use**, but feel free to explore and 
 | [0145-binary-tree-postorder-traversal](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0199-binary-tree-right-side-view) |
 | [0404-sum-of-left-leaves](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0404-sum-of-left-leaves) |
+| [0662-maximum-width-of-binary-tree](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0662-maximum-width-of-binary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0783-search-in-a-binary-search-tree) |
 | [0998-check-completeness-of-a-binary-tree](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0998-check-completeness-of-a-binary-tree) |
 | [1005-univalued-binary-tree](https://github.com/vtushar06/Leetcode-Submissions/tree/master/1005-univalued-binary-tree) |
@@ -522,6 +525,7 @@ This repository is **primarily for personal use**, but feel free to explore and 
 | [0145-binary-tree-postorder-traversal](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0199-binary-tree-right-side-view) |
 | [0404-sum-of-left-leaves](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0404-sum-of-left-leaves) |
+| [0662-maximum-width-of-binary-tree](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0662-maximum-width-of-binary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0783-search-in-a-binary-search-tree) |
 | [0998-check-completeness-of-a-binary-tree](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0998-check-completeness-of-a-binary-tree) |
 | [1005-univalued-binary-tree](https://github.com/vtushar06/Leetcode-Submissions/tree/master/1005-univalued-binary-tree) |
