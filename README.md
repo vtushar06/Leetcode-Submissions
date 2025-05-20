@@ -89,6 +89,7 @@ This repository is **primarily for personal use**, but feel free to explore and 
 | [0242-valid-anagram](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0344-reverse-string) |
 | [0389-find-the-difference](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0389-find-the-difference) |
+| [0392-is-subsequence](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0392-is-subsequence) |
 | [0412-fizz-buzz](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0412-fizz-buzz) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/vtushar06/Leetcode-Submissions/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1894-merge-strings-alternately](https://github.com/vtushar06/Leetcode-Submissions/tree/master/1894-merge-strings-alternately) |
@@ -139,6 +140,7 @@ This repository is **primarily for personal use**, but feel free to explore and 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0198-house-robber) |
 | [0279-perfect-squares](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0279-perfect-squares) |
+| [0392-is-subsequence](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0392-is-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0410-split-array-largest-sum) |
 | [0494-target-sum](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0494-target-sum) |
 | [0747-min-cost-climbing-stairs](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0747-min-cost-climbing-stairs) |
@@ -304,6 +306,7 @@ This repository is **primarily for personal use**, but feel free to explore and 
 | [0234-palindrome-linked-list](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0234-palindrome-linked-list) |
 | [0344-reverse-string](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0344-reverse-string) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0392-is-subsequence](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0392-is-subsequence) |
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0528-swapping-nodes-in-a-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0908-middle-of-the-linked-list) |
 | [1894-merge-strings-alternately](https://github.com/vtushar06/Leetcode-Submissions/tree/master/1894-merge-strings-alternately) |
