@@ -105,6 +105,7 @@ This repository is **primarily for personal use**, but feel free to explore and 
 | [0050-powx-n](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0067-add-binary) |
+| [0069-sqrtx](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0070-climbing-stairs) |
 | [0172-factorial-trailing-zeroes](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0172-factorial-trailing-zeroes) |
 | [0202-happy-number](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0202-happy-number) |
@@ -239,6 +240,7 @@ This repository is **primarily for personal use**, but feel free to explore and 
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0069-sqrtx](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0074-search-a-2d-matrix) |
 | [0162-find-peak-element](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0162-find-peak-element) |
 | [0268-missing-number](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0268-missing-number) |
