@@ -112,6 +112,7 @@ This repository is **primarily for personal use**, but feel free to explore and 
 | [0202-happy-number](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0231-power-of-two) |
+| [0258-add-digits](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0268-missing-number) |
 | [0279-perfect-squares](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0279-perfect-squares) |
 | [0292-nim-game](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0292-nim-game) |
@@ -321,6 +322,7 @@ This repository is **primarily for personal use**, but feel free to explore and 
 | ------- |
 | [0054-spiral-matrix](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0067-add-binary) |
+| [0258-add-digits](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0412-fizz-buzz) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/vtushar06/Leetcode-Submissions/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Hash Table
@@ -423,6 +425,7 @@ This repository is **primarily for personal use**, but feel free to explore and 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0204-count-primes) |
+| [0258-add-digits](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0258-add-digits) |
 | [2083-three-divisors](https://github.com/vtushar06/Leetcode-Submissions/tree/master/2083-three-divisors) |
 | [2491-smallest-even-multiple](https://github.com/vtushar06/Leetcode-Submissions/tree/master/2491-smallest-even-multiple) |
 | [2610-closest-prime-numbers-in-range](https://github.com/vtushar06/Leetcode-Submissions/tree/master/2610-closest-prime-numbers-in-range) |
