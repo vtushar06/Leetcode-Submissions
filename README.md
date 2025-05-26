@@ -131,6 +131,7 @@ This repository is **primarily for personal use**, but feel free to explore and 
 | [2083-three-divisors](https://github.com/vtushar06/Leetcode-Submissions/tree/master/2083-three-divisors) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/vtushar06/Leetcode-Submissions/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2238-a-number-after-a-double-reversal](https://github.com/vtushar06/Leetcode-Submissions/tree/master/2238-a-number-after-a-double-reversal) |
+| [2383-add-two-integers](https://github.com/vtushar06/Leetcode-Submissions/tree/master/2383-add-two-integers) |
 | [2491-smallest-even-multiple](https://github.com/vtushar06/Leetcode-Submissions/tree/master/2491-smallest-even-multiple) |
 | [2571-find-the-pivot-integer](https://github.com/vtushar06/Leetcode-Submissions/tree/master/2571-find-the-pivot-integer) |
 | [2610-closest-prime-numbers-in-range](https://github.com/vtushar06/Leetcode-Submissions/tree/master/2610-closest-prime-numbers-in-range) |
