@@ -121,6 +121,7 @@ This repository is **primarily for personal use**, but feel free to explore and 
 | [0412-fizz-buzz](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0415-add-strings) |
 | [0441-arranging-coins](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0441-arranging-coins) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0507-perfect-number](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0507-perfect-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0909-stone-game](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0909-stone-game) |
@@ -218,6 +219,7 @@ This repository is **primarily for personal use**, but feel free to explore and 
 | [0350-intersection-of-two-arrays-ii](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0410-split-array-largest-sum](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0410-split-array-largest-sum) |
 | [0414-third-maximum-number](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0414-third-maximum-number) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0494-target-sum](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0494-target-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0560-subarray-sum-equals-k) |
@@ -403,6 +405,7 @@ This repository is **primarily for personal use**, but feel free to explore and 
 | [0350-intersection-of-two-arrays-ii](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0414-third-maximum-number) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1388-greatest-sum-divisible-by-three](https://github.com/vtushar06/Leetcode-Submissions/tree/master/1388-greatest-sum-divisible-by-three) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/vtushar06/Leetcode-Submissions/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
