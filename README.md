@@ -129,6 +129,7 @@ This repository is **primarily for personal use**, but feel free to explore and 
 | [1013-fibonacci-number](https://github.com/vtushar06/Leetcode-Submissions/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/vtushar06/Leetcode-Submissions/tree/master/1236-n-th-tribonacci-number) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/vtushar06/Leetcode-Submissions/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
+| [1635-number-of-good-pairs](https://github.com/vtushar06/Leetcode-Submissions/tree/master/1635-number-of-good-pairs) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/vtushar06/Leetcode-Submissions/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2083-three-divisors](https://github.com/vtushar06/Leetcode-Submissions/tree/master/2083-three-divisors) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/vtushar06/Leetcode-Submissions/tree/master/2106-find-greatest-common-divisor-of-array) |
@@ -237,6 +238,7 @@ This repository is **primarily for personal use**, but feel free to explore and 
 | [1294-range-frequency-queries](https://github.com/vtushar06/Leetcode-Submissions/tree/master/1294-range-frequency-queries) |
 | [1388-greatest-sum-divisible-by-three](https://github.com/vtushar06/Leetcode-Submissions/tree/master/1388-greatest-sum-divisible-by-three) |
 | [1514-minimum-value-to-get-positive-step-by-step-sum](https://github.com/vtushar06/Leetcode-Submissions/tree/master/1514-minimum-value-to-get-positive-step-by-step-sum) |
+| [1635-number-of-good-pairs](https://github.com/vtushar06/Leetcode-Submissions/tree/master/1635-number-of-good-pairs) |
 | [1646-kth-missing-positive-number](https://github.com/vtushar06/Leetcode-Submissions/tree/master/1646-kth-missing-positive-number) |
 | [1813-maximum-erasure-value](https://github.com/vtushar06/Leetcode-Submissions/tree/master/1813-maximum-erasure-value) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/vtushar06/Leetcode-Submissions/tree/master/1951-find-the-winner-of-the-circular-game) |
@@ -359,6 +361,7 @@ This repository is **primarily for personal use**, but feel free to explore and 
 | [0966-binary-subarrays-with-sum](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0966-binary-subarrays-with-sum) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/vtushar06/Leetcode-Submissions/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1294-range-frequency-queries](https://github.com/vtushar06/Leetcode-Submissions/tree/master/1294-range-frequency-queries) |
+| [1635-number-of-good-pairs](https://github.com/vtushar06/Leetcode-Submissions/tree/master/1635-number-of-good-pairs) |
 | [1813-maximum-erasure-value](https://github.com/vtushar06/Leetcode-Submissions/tree/master/1813-maximum-erasure-value) |
 | [2005-check-if-all-the-integers-in-a-range-are-covered](https://github.com/vtushar06/Leetcode-Submissions/tree/master/2005-check-if-all-the-integers-in-a-range-are-covered) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/vtushar06/Leetcode-Submissions/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
@@ -418,6 +421,7 @@ This repository is **primarily for personal use**, but feel free to explore and 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0169-majority-element) |
+| [1635-number-of-good-pairs](https://github.com/vtushar06/Leetcode-Submissions/tree/master/1635-number-of-good-pairs) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/vtushar06/Leetcode-Submissions/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [3778-transform-array-by-parity](https://github.com/vtushar06/Leetcode-Submissions/tree/master/3778-transform-array-by-parity) |
 ## Design
