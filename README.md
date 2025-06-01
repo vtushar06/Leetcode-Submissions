@@ -194,6 +194,7 @@ This repository is **primarily for personal use**, but feel free to explore and 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0033-search-in-rotated-sorted-array) |
@@ -280,6 +281,7 @@ This repository is **primarily for personal use**, but feel free to explore and 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0011-container-with-most-water) |
 | [0045-jump-game-ii](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0055-jump-game) |
 | [0410-split-array-largest-sum](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0410-split-array-largest-sum) |
@@ -313,6 +315,7 @@ This repository is **primarily for personal use**, but feel free to explore and 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0026-remove-duplicates-from-sorted-array) |
