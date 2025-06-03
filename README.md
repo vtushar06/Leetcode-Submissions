@@ -208,6 +208,7 @@ This repository is **primarily for personal use**, but feel free to explore and 
 | [0055-jump-game](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0074-search-a-2d-matrix) |
+| [0075-sort-colors](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0079-word-search) |
 | [0088-merge-sorted-array](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0088-merge-sorted-array) |
@@ -323,6 +324,7 @@ This repository is **primarily for personal use**, but feel free to explore and 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0061-rotate-list](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0061-rotate-list) |
+| [0075-sort-colors](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0075-sort-colors) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0088-merge-sorted-array](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0125-valid-palindrome) |
@@ -407,6 +409,7 @@ This repository is **primarily for personal use**, but feel free to explore and 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0015-3sum) |
+| [0075-sort-colors](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0088-merge-sorted-array) |
 | [0164-maximum-gap](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0164-maximum-gap) |
 | [0169-majority-element](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0169-majority-element) |
