@@ -89,6 +89,7 @@ This repository is **primarily for personal use**, but feel free to explore and 
 | [0125-valid-palindrome](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0389-find-the-difference](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0392-is-subsequence) |
 | [0412-fizz-buzz](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0412-fizz-buzz) |
@@ -334,6 +335,7 @@ This repository is **primarily for personal use**, but feel free to explore and 
 | [0202-happy-number](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0234-palindrome-linked-list) |
 | [0344-reverse-string](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0392-is-subsequence](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0392-is-subsequence) |
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0528-swapping-nodes-in-a-linked-list) |
