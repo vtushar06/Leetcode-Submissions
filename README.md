@@ -88,6 +88,7 @@ This repository is **primarily for personal use**, but feel free to explore and 
 | [0079-word-search](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0242-valid-anagram) |
+| [0257-binary-tree-paths](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0257-binary-tree-paths) |
 | [0344-reverse-string](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0389-find-the-difference](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0389-find-the-difference) |
@@ -317,6 +318,7 @@ This repository is **primarily for personal use**, but feel free to explore and 
 | [0077-combinations](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0079-word-search) |
+| [0257-binary-tree-paths](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0257-binary-tree-paths) |
 | [0494-target-sum](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0494-target-sum) |
 ## Two Pointers
 |  |
@@ -398,6 +400,7 @@ This repository is **primarily for personal use**, but feel free to explore and 
 | [0144-binary-tree-preorder-traversal](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0199-binary-tree-right-side-view) |
+| [0257-binary-tree-paths](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0404-sum-of-left-leaves) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0662-maximum-width-of-binary-tree) |
@@ -565,6 +568,7 @@ This repository is **primarily for personal use**, but feel free to explore and 
 | [0144-binary-tree-preorder-traversal](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0199-binary-tree-right-side-view) |
+| [0257-binary-tree-paths](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0404-sum-of-left-leaves) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0662-maximum-width-of-binary-tree) |
@@ -587,6 +591,7 @@ This repository is **primarily for personal use**, but feel free to explore and 
 | [0144-binary-tree-preorder-traversal](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0199-binary-tree-right-side-view) |
+| [0257-binary-tree-paths](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0404-sum-of-left-leaves) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0662-maximum-width-of-binary-tree) |
