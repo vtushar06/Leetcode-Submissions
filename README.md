@@ -99,6 +99,7 @@ This repository is **primarily for personal use**, but feel free to explore and 
 | [1537-maximum-score-after-splitting-a-string](https://github.com/vtushar06/Leetcode-Submissions/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1894-merge-strings-alternately](https://github.com/vtushar06/Leetcode-Submissions/tree/master/1894-merge-strings-alternately) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/vtushar06/Leetcode-Submissions/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/vtushar06/Leetcode-Submissions/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2235-capitalize-the-title](https://github.com/vtushar06/Leetcode-Submissions/tree/master/2235-capitalize-the-title) |
 | [3379-score-of-a-string](https://github.com/vtushar06/Leetcode-Submissions/tree/master/3379-score-of-a-string) |
 | [3636-check-balanced-string](https://github.com/vtushar06/Leetcode-Submissions/tree/master/3636-check-balanced-string) |
@@ -254,6 +255,7 @@ This repository is **primarily for personal use**, but feel free to explore and 
 | [2005-check-if-all-the-integers-in-a-range-are-covered](https://github.com/vtushar06/Leetcode-Submissions/tree/master/2005-check-if-all-the-integers-in-a-range-are-covered) |
 | [2058-concatenation-of-array](https://github.com/vtushar06/Leetcode-Submissions/tree/master/2058-concatenation-of-array) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/vtushar06/Leetcode-Submissions/tree/master/2106-find-greatest-common-divisor-of-array) |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/vtushar06/Leetcode-Submissions/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/vtushar06/Leetcode-Submissions/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/vtushar06/Leetcode-Submissions/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2294-minimum-time-to-complete-trips](https://github.com/vtushar06/Leetcode-Submissions/tree/master/2294-minimum-time-to-complete-trips) |
@@ -359,6 +361,7 @@ This repository is **primarily for personal use**, but feel free to explore and 
 | [0415-add-strings](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0415-add-strings) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/vtushar06/Leetcode-Submissions/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2058-concatenation-of-array](https://github.com/vtushar06/Leetcode-Submissions/tree/master/2058-concatenation-of-array) |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/vtushar06/Leetcode-Submissions/tree/master/2137-final-value-of-variable-after-performing-operations) |
 ## Hash Table
 |  |
 | ------- |
