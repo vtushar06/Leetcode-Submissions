@@ -102,6 +102,7 @@ This repository is **primarily for personal use**, but feel free to explore and 
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/vtushar06/Leetcode-Submissions/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2235-capitalize-the-title](https://github.com/vtushar06/Leetcode-Submissions/tree/master/2235-capitalize-the-title) |
 | [3379-score-of-a-string](https://github.com/vtushar06/Leetcode-Submissions/tree/master/3379-score-of-a-string) |
+| [3567-convert-date-to-binary](https://github.com/vtushar06/Leetcode-Submissions/tree/master/3567-convert-date-to-binary) |
 | [3636-check-balanced-string](https://github.com/vtushar06/Leetcode-Submissions/tree/master/3636-check-balanced-string) |
 ## Math
 |  |
@@ -147,6 +148,7 @@ This repository is **primarily for personal use**, but feel free to explore and 
 | [2571-find-the-pivot-integer](https://github.com/vtushar06/Leetcode-Submissions/tree/master/2571-find-the-pivot-integer) |
 | [2610-closest-prime-numbers-in-range](https://github.com/vtushar06/Leetcode-Submissions/tree/master/2610-closest-prime-numbers-in-range) |
 | [2722-prime-in-diagonal](https://github.com/vtushar06/Leetcode-Submissions/tree/master/2722-prime-in-diagonal) |
+| [3567-convert-date-to-binary](https://github.com/vtushar06/Leetcode-Submissions/tree/master/3567-convert-date-to-binary) |
 ## Dynamic Programming
 |  |
 | ------- |
