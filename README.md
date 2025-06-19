@@ -364,6 +364,7 @@ This repository is **primarily for personal use**, but feel free to explore and 
 | [1951-find-the-winner-of-the-circular-game](https://github.com/vtushar06/Leetcode-Submissions/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2058-concatenation-of-array](https://github.com/vtushar06/Leetcode-Submissions/tree/master/2058-concatenation-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/vtushar06/Leetcode-Submissions/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2299-merge-nodes-in-between-zeros](https://github.com/vtushar06/Leetcode-Submissions/tree/master/2299-merge-nodes-in-between-zeros) |
 ## Hash Table
 |  |
 | ------- |
@@ -549,6 +550,7 @@ This repository is **primarily for personal use**, but feel free to explore and 
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/vtushar06/Leetcode-Submissions/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1765-merge-in-between-linked-lists](https://github.com/vtushar06/Leetcode-Submissions/tree/master/1765-merge-in-between-linked-lists) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/vtushar06/Leetcode-Submissions/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
+| [2299-merge-nodes-in-between-zeros](https://github.com/vtushar06/Leetcode-Submissions/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2573-remove-nodes-from-linked-list](https://github.com/vtushar06/Leetcode-Submissions/tree/master/2573-remove-nodes-from-linked-list) |
 ## Stack
 |  |
