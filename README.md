@@ -250,6 +250,7 @@ This repository is **primarily for personal use**, but feel free to explore and 
 | [1294-range-frequency-queries](https://github.com/vtushar06/Leetcode-Submissions/tree/master/1294-range-frequency-queries) |
 | [1388-greatest-sum-divisible-by-three](https://github.com/vtushar06/Leetcode-Submissions/tree/master/1388-greatest-sum-divisible-by-three) |
 | [1514-minimum-value-to-get-positive-step-by-step-sum](https://github.com/vtushar06/Leetcode-Submissions/tree/master/1514-minimum-value-to-get-positive-step-by-step-sum) |
+| [1528-kids-with-the-greatest-number-of-candies](https://github.com/vtushar06/Leetcode-Submissions/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1635-number-of-good-pairs](https://github.com/vtushar06/Leetcode-Submissions/tree/master/1635-number-of-good-pairs) |
 | [1646-kth-missing-positive-number](https://github.com/vtushar06/Leetcode-Submissions/tree/master/1646-kth-missing-positive-number) |
 | [1813-maximum-erasure-value](https://github.com/vtushar06/Leetcode-Submissions/tree/master/1813-maximum-erasure-value) |
