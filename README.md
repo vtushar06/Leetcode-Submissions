@@ -149,6 +149,7 @@ This repository is **primarily for personal use**, but feel free to explore and 
 | [2571-find-the-pivot-integer](https://github.com/vtushar06/Leetcode-Submissions/tree/master/2571-find-the-pivot-integer) |
 | [2610-closest-prime-numbers-in-range](https://github.com/vtushar06/Leetcode-Submissions/tree/master/2610-closest-prime-numbers-in-range) |
 | [2722-prime-in-diagonal](https://github.com/vtushar06/Leetcode-Submissions/tree/master/2722-prime-in-diagonal) |
+| [3172-divisible-and-non-divisible-sums-difference](https://github.com/vtushar06/Leetcode-Submissions/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3567-convert-date-to-binary](https://github.com/vtushar06/Leetcode-Submissions/tree/master/3567-convert-date-to-binary) |
 ## Dynamic Programming
 |  |
