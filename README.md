@@ -113,6 +113,7 @@ This repository is **primarily for personal use**, but feel free to explore and 
 | [0013-roman-to-integer](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0029-divide-two-integers) |
 | [0050-powx-n](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0050-powx-n) |
+| [0062-unique-paths](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0069-sqrtx) |
@@ -158,6 +159,7 @@ This repository is **primarily for personal use**, but feel free to explore and 
 | [0045-jump-game-ii](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0055-jump-game) |
+| [0062-unique-paths](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -621,4 +623,8 @@ This repository is **primarily for personal use**, but feel free to explore and 
 | ------- |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0783-search-in-a-binary-search-tree) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
