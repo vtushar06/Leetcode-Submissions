@@ -1,27 +1,24 @@
 class Solution {
 public:
-    int decode(int i,string& s,vector<int>& dp){
-        if(i==s.size()){
-            return 1;
-        }
-        if(s[i]=='0'){
+    int numDecodings(string s) {
+        int n=s.size();
+        vector<int>dp(n+1);
+        if(n==0 || s[0]=='0'){
             return 0;
         }
-        if(dp[i]!=-1) {
-            return dp[i];
-        }
-        int res=decode(i+1,s,dp);
-        if(i+1<s.size()){
-            int twodigit=stoi(s.substr(i,2));
+        dp[0]=1;
+        dp[1]=1;
+        // i am running accroding to dp 
+        for(int i=2;i<=n;i++){
+            if(s[i-1]!='0'){
+                dp[i]+=dp[i-1];
+            }
+            int twodigit=stoi(s.substr(i-2,2));
             if(9<twodigit && twodigit<27){
-                res+=decode(i+2,s,dp);
+                dp[i]+=dp[i-2];
             }
         }
-        dp[i]=res;
-        return dp[i];
-    }
-    int numDecodings(string s) {
-        vector<int>dp(s.size()+1,-1);
-        return decode(0,s,dp);
+        return dp[n];
+       
     }
 };
