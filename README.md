@@ -86,6 +86,7 @@ This repository is **primarily for personal use**, but feel free to explore and 
 | [0058-length-of-last-word](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0067-add-binary) |
 | [0079-word-search](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0079-word-search) |
+| [0091-decode-ways](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0091-decode-ways) |
 | [0125-valid-palindrome](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0257-binary-tree-paths) |
@@ -161,6 +162,7 @@ This repository is **primarily for personal use**, but feel free to explore and 
 | [0055-jump-game](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0070-climbing-stairs) |
+| [0091-decode-ways](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0091-decode-ways) |
 | [0118-pascals-triangle](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0198-house-robber) |
