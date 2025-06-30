@@ -165,6 +165,7 @@ This repository is **primarily for personal use**, but feel free to explore and 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0198-house-robber) |
 | [0279-perfect-squares](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0279-perfect-squares) |
+| [0300-longest-increasing-subsequence](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0300-longest-increasing-subsequence) |
 | [0392-is-subsequence](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0392-is-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0410-split-array-largest-sum) |
 | [0494-target-sum](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0494-target-sum) |
@@ -234,6 +235,7 @@ This repository is **primarily for personal use**, but feel free to explore and 
 | [0204-count-primes](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0268-missing-number) |
+| [0300-longest-increasing-subsequence](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0300-longest-increasing-subsequence) |
 | [0303-range-sum-query-immutable](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0303-range-sum-query-immutable) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0410-split-array-largest-sum](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0410-split-array-largest-sum) |
@@ -283,6 +285,7 @@ This repository is **primarily for personal use**, but feel free to explore and 
 | [0162-find-peak-element](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0162-find-peak-element) |
 | [0268-missing-number](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0278-first-bad-version) |
+| [0300-longest-increasing-subsequence](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0300-longest-increasing-subsequence) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0410-split-array-largest-sum](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0410-split-array-largest-sum) |
 | [0441-arranging-coins](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0441-arranging-coins) |
