@@ -222,6 +222,7 @@ This repository is **primarily for personal use**, but feel free to explore and 
 | [0053-maximum-subarray](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0055-jump-game) |
+| [0056-merge-intervals](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0075-sort-colors) |
@@ -440,6 +441,7 @@ This repository is **primarily for personal use**, but feel free to explore and 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0015-3sum) |
+| [0056-merge-intervals](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0088-merge-sorted-array) |
 | [0164-maximum-gap](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0164-maximum-gap) |
