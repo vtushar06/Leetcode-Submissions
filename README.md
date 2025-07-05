@@ -176,6 +176,7 @@ This repository is **primarily for personal use**, but feel free to explore and 
 | [1013-fibonacci-number](https://github.com/vtushar06/Leetcode-Submissions/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/vtushar06/Leetcode-Submissions/tree/master/1236-n-th-tribonacci-number) |
 | [1388-greatest-sum-divisible-by-three](https://github.com/vtushar06/Leetcode-Submissions/tree/master/1388-greatest-sum-divisible-by-three) |
+| [1669-minimum-cost-to-cut-a-stick](https://github.com/vtushar06/Leetcode-Submissions/tree/master/1669-minimum-cost-to-cut-a-stick) |
 ## Recursion
 |  |
 | ------- |
@@ -263,6 +264,7 @@ This repository is **primarily for personal use**, but feel free to explore and 
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/vtushar06/Leetcode-Submissions/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1635-number-of-good-pairs](https://github.com/vtushar06/Leetcode-Submissions/tree/master/1635-number-of-good-pairs) |
 | [1646-kth-missing-positive-number](https://github.com/vtushar06/Leetcode-Submissions/tree/master/1646-kth-missing-positive-number) |
+| [1669-minimum-cost-to-cut-a-stick](https://github.com/vtushar06/Leetcode-Submissions/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [1813-maximum-erasure-value](https://github.com/vtushar06/Leetcode-Submissions/tree/master/1813-maximum-erasure-value) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/vtushar06/Leetcode-Submissions/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2005-check-if-all-the-integers-in-a-range-are-covered](https://github.com/vtushar06/Leetcode-Submissions/tree/master/2005-check-if-all-the-integers-in-a-range-are-covered) |
@@ -455,6 +457,7 @@ This repository is **primarily for personal use**, but feel free to explore and 
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1388-greatest-sum-divisible-by-three](https://github.com/vtushar06/Leetcode-Submissions/tree/master/1388-greatest-sum-divisible-by-three) |
+| [1669-minimum-cost-to-cut-a-stick](https://github.com/vtushar06/Leetcode-Submissions/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/vtushar06/Leetcode-Submissions/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/vtushar06/Leetcode-Submissions/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2469-longest-subsequence-with-limited-sum](https://github.com/vtushar06/Leetcode-Submissions/tree/master/2469-longest-subsequence-with-limited-sum) |
