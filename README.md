@@ -230,6 +230,7 @@ This repository is **primarily for personal use**, but feel free to explore and 
 | [0078-subsets](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0079-word-search) |
 | [0088-merge-sorted-array](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0088-merge-sorted-array) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0162-find-peak-element](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0162-find-peak-element) |
@@ -487,6 +488,7 @@ This repository is **primarily for personal use**, but feel free to explore and 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0053-maximum-subarray) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0169-majority-element](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0169-majority-element) |
 ## Number Theory
 |  |
@@ -591,6 +593,7 @@ This repository is **primarily for personal use**, but feel free to explore and 
 | [0102-binary-tree-level-order-traversal](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0112-path-sum) |
@@ -614,6 +617,7 @@ This repository is **primarily for personal use**, but feel free to explore and 
 | [0102-binary-tree-level-order-traversal](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0112-path-sum) |
@@ -631,6 +635,7 @@ This repository is **primarily for personal use**, but feel free to explore and 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0783-search-in-a-binary-search-tree) |
 ## Combinatorics
