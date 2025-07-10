@@ -98,6 +98,7 @@ This repository is **primarily for personal use**, but feel free to explore and 
 | [0415-add-strings](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0415-add-strings) |
 | [1205-defanging-an-ip-address](https://github.com/vtushar06/Leetcode-Submissions/tree/master/1205-defanging-an-ip-address) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/vtushar06/Leetcode-Submissions/tree/master/1537-maximum-score-after-splitting-a-string) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/vtushar06/Leetcode-Submissions/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1894-merge-strings-alternately](https://github.com/vtushar06/Leetcode-Submissions/tree/master/1894-merge-strings-alternately) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/vtushar06/Leetcode-Submissions/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/vtushar06/Leetcode-Submissions/tree/master/2137-final-value-of-variable-after-performing-operations) |
@@ -209,6 +210,7 @@ This repository is **primarily for personal use**, but feel free to explore and 
 | [0268-missing-number](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0389-find-the-difference) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/vtushar06/Leetcode-Submissions/tree/master/1786-count-the-number-of-consistent-strings) |
 ## Array
 |  |
 | ------- |
@@ -267,6 +269,7 @@ This repository is **primarily for personal use**, but feel free to explore and 
 | [1635-number-of-good-pairs](https://github.com/vtushar06/Leetcode-Submissions/tree/master/1635-number-of-good-pairs) |
 | [1646-kth-missing-positive-number](https://github.com/vtushar06/Leetcode-Submissions/tree/master/1646-kth-missing-positive-number) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/vtushar06/Leetcode-Submissions/tree/master/1669-minimum-cost-to-cut-a-stick) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/vtushar06/Leetcode-Submissions/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1813-maximum-erasure-value](https://github.com/vtushar06/Leetcode-Submissions/tree/master/1813-maximum-erasure-value) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/vtushar06/Leetcode-Submissions/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2005-check-if-all-the-integers-in-a-range-are-covered](https://github.com/vtushar06/Leetcode-Submissions/tree/master/2005-check-if-all-the-integers-in-a-range-are-covered) |
@@ -404,6 +407,7 @@ This repository is **primarily for personal use**, but feel free to explore and 
 | [1016-subarray-sums-divisible-by-k](https://github.com/vtushar06/Leetcode-Submissions/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1294-range-frequency-queries](https://github.com/vtushar06/Leetcode-Submissions/tree/master/1294-range-frequency-queries) |
 | [1635-number-of-good-pairs](https://github.com/vtushar06/Leetcode-Submissions/tree/master/1635-number-of-good-pairs) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/vtushar06/Leetcode-Submissions/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1813-maximum-erasure-value](https://github.com/vtushar06/Leetcode-Submissions/tree/master/1813-maximum-erasure-value) |
 | [2005-check-if-all-the-integers-in-a-range-are-covered](https://github.com/vtushar06/Leetcode-Submissions/tree/master/2005-check-if-all-the-integers-in-a-range-are-covered) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/vtushar06/Leetcode-Submissions/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
@@ -470,6 +474,7 @@ This repository is **primarily for personal use**, but feel free to explore and 
 | ------- |
 | [0169-majority-element](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0169-majority-element) |
 | [1635-number-of-good-pairs](https://github.com/vtushar06/Leetcode-Submissions/tree/master/1635-number-of-good-pairs) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/vtushar06/Leetcode-Submissions/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/vtushar06/Leetcode-Submissions/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [3778-transform-array-by-parity](https://github.com/vtushar06/Leetcode-Submissions/tree/master/3778-transform-array-by-parity) |
 ## Design
