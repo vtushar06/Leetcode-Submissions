@@ -297,6 +297,7 @@ This repository is **primarily for personal use**, but feel free to explore and 
 | [0278-first-bad-version](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0278-first-bad-version) |
 | [0300-longest-increasing-subsequence](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0300-longest-increasing-subsequence) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0374-guess-number-higher-or-lower](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0374-guess-number-higher-or-lower) |
 | [0410-split-array-largest-sum](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0410-split-array-largest-sum) |
 | [0441-arranging-coins](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0441-arranging-coins) |
 | [0540-single-element-in-a-sorted-array](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0540-single-element-in-a-sorted-array) |
@@ -524,6 +525,7 @@ This repository is **primarily for personal use**, but feel free to explore and 
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0278-first-bad-version) |
+| [0374-guess-number-higher-or-lower](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0374-guess-number-higher-or-lower) |
 ## Breadth-First Search
 |  |
 | ------- |
