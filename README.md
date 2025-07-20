@@ -94,6 +94,7 @@ This repository is **primarily for personal use**, but feel free to explore and 
 | [0345-reverse-vowels-of-a-string](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0389-find-the-difference](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0392-is-subsequence) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0412-fizz-buzz](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0415-add-strings) |
 | [1205-defanging-an-ip-address](https://github.com/vtushar06/Leetcode-Submissions/tree/master/1205-defanging-an-ip-address) |
@@ -130,6 +131,7 @@ This repository is **primarily for personal use**, but feel free to explore and 
 | [0279-perfect-squares](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0279-perfect-squares) |
 | [0292-nim-game](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0292-nim-game) |
 | [0342-power-of-four](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0342-power-of-four) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0412-fizz-buzz](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0415-add-strings) |
 | [0441-arranging-coins](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0441-arranging-coins) |
@@ -210,6 +212,7 @@ This repository is **primarily for personal use**, but feel free to explore and 
 | [0268-missing-number](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0389-find-the-difference) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/vtushar06/Leetcode-Submissions/tree/master/1786-count-the-number-of-consistent-strings) |
 ## Array
 |  |
