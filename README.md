@@ -228,6 +228,7 @@ This repository is **primarily for personal use**, but feel free to explore and 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0036-valid-sudoku](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0036-valid-sudoku) |
 | [0039-combination-sum](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0039-combination-sum) |
 | [0045-jump-game-ii](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0046-permutations) |
@@ -405,6 +406,7 @@ This repository is **primarily for personal use**, but feel free to explore and 
 | [0012-integer-to-roman](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0036-valid-sudoku](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0036-valid-sudoku) |
 | [0141-linked-list-cycle](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0169-majority-element) |
@@ -454,6 +456,7 @@ This repository is **primarily for personal use**, but feel free to explore and 
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0036-valid-sudoku) |
 | [0054-spiral-matrix](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0079-word-search) |
