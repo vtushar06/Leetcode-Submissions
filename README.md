@@ -110,6 +110,7 @@ This repository is **primarily for personal use**, but feel free to explore and 
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/vtushar06/Leetcode-Submissions/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/vtushar06/Leetcode-Submissions/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2235-capitalize-the-title](https://github.com/vtushar06/Leetcode-Submissions/tree/master/2235-capitalize-the-title) |
+| [3194-find-words-containing-character](https://github.com/vtushar06/Leetcode-Submissions/tree/master/3194-find-words-containing-character) |
 | [3379-score-of-a-string](https://github.com/vtushar06/Leetcode-Submissions/tree/master/3379-score-of-a-string) |
 | [3567-convert-date-to-binary](https://github.com/vtushar06/Leetcode-Submissions/tree/master/3567-convert-date-to-binary) |
 | [3636-check-balanced-string](https://github.com/vtushar06/Leetcode-Submissions/tree/master/3636-check-balanced-string) |
@@ -302,6 +303,7 @@ This repository is **primarily for personal use**, but feel free to explore and 
 | [2714-left-and-right-sum-differences](https://github.com/vtushar06/Leetcode-Submissions/tree/master/2714-left-and-right-sum-differences) |
 | [2722-prime-in-diagonal](https://github.com/vtushar06/Leetcode-Submissions/tree/master/2722-prime-in-diagonal) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/vtushar06/Leetcode-Submissions/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
+| [3194-find-words-containing-character](https://github.com/vtushar06/Leetcode-Submissions/tree/master/3194-find-words-containing-character) |
 | [3778-transform-array-by-parity](https://github.com/vtushar06/Leetcode-Submissions/tree/master/3778-transform-array-by-parity) |
 ## Binary Search
 |  |
