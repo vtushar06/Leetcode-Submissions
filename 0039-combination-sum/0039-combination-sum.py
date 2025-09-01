@@ -1,18 +1,19 @@
-class Solution(object):
-    def combinationSum(self, candidates, target):
+class Solution:
+    def combinationSum(self, candidates: List[int], target: int) -> List[List[int]]:
         result=[]
-        def backtrack(index,path,currentsum):
-            if currentsum==target:
+        def find(index,currsum,path):
+            if currsum==target:
                 result.append(path[:])
                 return
-            if currentsum>target or index >= len(candidates):
+            if currsum>target or index>=len(candidates):
                 return
-
+            # include that element and do not move
             path.append(candidates[index])
-            backtrack(index,path,currentsum+candidates[index])
+            find(index,currsum+candidates[index],path)
+            # do not include that element and move 
             path.pop()
-
-            backtrack(index+1,path,currentsum)
-        backtrack(0,[],0)
-        return result            
+            find(index+1,currsum,path)  
+            return
+        find(0,0,[])
+        return result    
         
