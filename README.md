@@ -187,6 +187,7 @@ This repository is **primarily for personal use**, but feel free to explore and 
 | [0300-longest-increasing-subsequence](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0300-longest-increasing-subsequence) |
 | [0392-is-subsequence](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0392-is-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0410-split-array-largest-sum) |
+| [0416-partition-equal-subset-sum](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0494-target-sum) |
 | [0747-min-cost-climbing-stairs](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0747-min-cost-climbing-stairs) |
 | [0909-stone-game](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0909-stone-game) |
@@ -267,6 +268,7 @@ This repository is **primarily for personal use**, but feel free to explore and 
 | [0350-intersection-of-two-arrays-ii](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0410-split-array-largest-sum](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0410-split-array-largest-sum) |
 | [0414-third-maximum-number](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0414-third-maximum-number) |
+| [0416-partition-equal-subset-sum](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0416-partition-equal-subset-sum) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0494-target-sum](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0494-target-sum) |
