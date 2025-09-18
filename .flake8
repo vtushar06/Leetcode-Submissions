@@ -1,7 +1,0 @@
-[flake8]
-# Ignore undefined name errors for LeetCode type hints
-extend-ignore = F821
-# Optional: Only ignore F821 in specific patterns
-per-file-ignores = 
-    **/[0-9]*.py:F821
-max-line-length = 88

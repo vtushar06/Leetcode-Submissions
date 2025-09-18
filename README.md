@@ -4,8 +4,9 @@ Welcome to my **LeetCode Submissions Repository**! This repository contains my s
 
 ## 📌 About
 - 🔥 **Languages Used:** Python, Java, Javascript(as needed)
-- 📌 **Topics Covered:** Data Structures & Algorithms (Arrays, Strings, Recurssion, Searching, etc.)
+- 📌 **Topics Covered:** Data Structures & Algorithms (Arrays, Strings, Recursion, Searching, etc.)
 - 🏆 **Goal:** Consistently solve problems to enhance problem-solving skills and prepare for coding interviews.
+- 🔕 **Repository Type:** Practice repository without CI/CD workflows to minimize notifications
 
 ## 📂 Repository Structure
 ```plaintext
