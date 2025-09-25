@@ -94,6 +94,7 @@ This repository is **primarily for personal use**, but feel free to explore and 
 | [0131-palindrome-partitioning](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0131-palindrome-partitioning) |
 | [0242-valid-anagram](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0257-binary-tree-paths) |
+| [0290-word-pattern](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0389-find-the-difference](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0389-find-the-difference) |
@@ -437,6 +438,7 @@ This repository is **primarily for personal use**, but feel free to explore and 
 | [0217-contains-duplicate](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0268-missing-number) |
+| [0290-word-pattern](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0290-word-pattern) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0389-find-the-difference) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0442-find-all-duplicates-in-an-array) |
