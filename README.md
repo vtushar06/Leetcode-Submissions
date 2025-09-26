@@ -276,6 +276,7 @@ This repository is **primarily for personal use**, but feel free to explore and 
 | [0500-keyboard-row](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0500-keyboard-row) |
 | [0540-single-element-in-a-sorted-array](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0560-subarray-sum-equals-k) |
+| [0575-distribute-candies](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0575-distribute-candies) |
 | [0628-maximum-product-of-three-numbers](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0682-baseball-game](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0682-baseball-game) |
 | [0724-find-pivot-index](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0724-find-pivot-index) |
@@ -444,6 +445,7 @@ This repository is **primarily for personal use**, but feel free to explore and 
 | [0442-find-all-duplicates-in-an-array](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0500-keyboard-row](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0500-keyboard-row) |
 | [0560-subarray-sum-equals-k](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0560-subarray-sum-equals-k) |
+| [0575-distribute-candies](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0575-distribute-candies) |
 | [0782-jewels-and-stones](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0782-jewels-and-stones) |
 | [0966-binary-subarrays-with-sum](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0966-binary-subarrays-with-sum) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/vtushar06/Leetcode-Submissions/tree/master/1016-subarray-sums-divisible-by-k) |
