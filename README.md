@@ -272,6 +272,7 @@ This repository is **primarily for personal use**, but feel free to explore and 
 | [0414-third-maximum-number](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0414-third-maximum-number) |
 | [0416-partition-equal-subset-sum](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0416-partition-equal-subset-sum) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0494-target-sum](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0494-target-sum) |
 | [0500-keyboard-row](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0500-keyboard-row) |
@@ -348,6 +349,7 @@ This repository is **primarily for personal use**, but feel free to explore and 
 | [0045-jump-game-ii](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0055-jump-game) |
 | [0410-split-array-largest-sum](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0410-split-array-largest-sum) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [1388-greatest-sum-divisible-by-three](https://github.com/vtushar06/Leetcode-Submissions/tree/master/1388-greatest-sum-divisible-by-three) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/vtushar06/Leetcode-Submissions/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/vtushar06/Leetcode-Submissions/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
@@ -510,6 +512,7 @@ This repository is **primarily for personal use**, but feel free to explore and 
 | [0350-intersection-of-two-arrays-ii](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0414-third-maximum-number) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1388-greatest-sum-divisible-by-three](https://github.com/vtushar06/Leetcode-Submissions/tree/master/1388-greatest-sum-divisible-by-three) |
