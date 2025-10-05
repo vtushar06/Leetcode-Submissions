@@ -2,7 +2,7 @@ class Solution:
     def numDistinct(self, s: str, t: str) -> int:
         n=len(s)
         m=len(t)
-        dp=[[-1]*1000 for i in range(1000)]
+        dp=[[-1]*m for i in range(n)]
         def solve(i,j):
             if j==m:
                 return 1
