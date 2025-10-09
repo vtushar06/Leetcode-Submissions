@@ -104,6 +104,7 @@ This repository is **primarily for personal use**, but feel free to explore and 
 | [0412-fizz-buzz](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0415-add-strings) |
 | [0500-keyboard-row](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0500-keyboard-row) |
+| [0516-longest-palindromic-subsequence](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0516-longest-palindromic-subsequence) |
 | [0782-jewels-and-stones](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0782-jewels-and-stones) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1205-defanging-an-ip-address](https://github.com/vtushar06/Leetcode-Submissions/tree/master/1205-defanging-an-ip-address) |
@@ -196,6 +197,7 @@ This repository is **primarily for personal use**, but feel free to explore and 
 | [0410-split-array-largest-sum](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0494-target-sum) |
+| [0516-longest-palindromic-subsequence](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0516-longest-palindromic-subsequence) |
 | [0747-min-cost-climbing-stairs](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0747-min-cost-climbing-stairs) |
 | [0909-stone-game](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0909-stone-game) |
 | [1013-fibonacci-number](https://github.com/vtushar06/Leetcode-Submissions/tree/master/1013-fibonacci-number) |
