@@ -272,6 +272,7 @@ This repository is **primarily for personal use**, but feel free to explore and 
 | [0169-majority-element](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0169-majority-element) |
 | [0174-dungeon-game](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0174-dungeon-game) |
 | [0198-house-robber](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0198-house-robber) |
+| [0200-number-of-islands](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0200-number-of-islands) |
 | [0204-count-primes](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0268-missing-number) |
@@ -491,6 +492,7 @@ This repository is **primarily for personal use**, but feel free to explore and 
 | [0144-binary-tree-preorder-traversal](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0200-number-of-islands) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0257-binary-tree-paths](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0404-sum-of-left-leaves) |
@@ -506,6 +508,7 @@ This repository is **primarily for personal use**, but feel free to explore and 
 | [0074-search-a-2d-matrix](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0079-word-search) |
 | [0174-dungeon-game](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0174-dungeon-game) |
+| [0200-number-of-islands](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0200-number-of-islands) |
 | [1791-richest-customer-wealth](https://github.com/vtushar06/Leetcode-Submissions/tree/master/1791-richest-customer-wealth) |
 | [2722-prime-in-diagonal](https://github.com/vtushar06/Leetcode-Submissions/tree/master/2722-prime-in-diagonal) |
 ## Sorting
@@ -602,6 +605,7 @@ This repository is **primarily for personal use**, but feel free to explore and 
 | [0111-minimum-depth-of-binary-tree](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0112-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0200-number-of-islands) |
 | [0279-perfect-squares](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0279-perfect-squares) |
 | [0404-sum-of-left-leaves](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0404-sum-of-left-leaves) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0530-minimum-absolute-difference-in-bst) |
@@ -722,4 +726,8 @@ This repository is **primarily for personal use**, but feel free to explore and 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0062-unique-paths) |
+## Union Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
