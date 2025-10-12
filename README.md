@@ -298,6 +298,7 @@ This repository is **primarily for personal use**, but feel free to explore and 
 | [0909-stone-game](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0909-stone-game) |
 | [0966-binary-subarrays-with-sum](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0966-binary-subarrays-with-sum) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/vtushar06/Leetcode-Submissions/tree/master/1016-subarray-sums-divisible-by-k) |
+| [1036-rotting-oranges](https://github.com/vtushar06/Leetcode-Submissions/tree/master/1036-rotting-oranges) |
 | [1046-max-consecutive-ones-iii](https://github.com/vtushar06/Leetcode-Submissions/tree/master/1046-max-consecutive-ones-iii) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/vtushar06/Leetcode-Submissions/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1221-element-appearing-more-than-25-in-sorted-array](https://github.com/vtushar06/Leetcode-Submissions/tree/master/1221-element-appearing-more-than-25-in-sorted-array) |
@@ -509,6 +510,7 @@ This repository is **primarily for personal use**, but feel free to explore and 
 | [0079-word-search](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0079-word-search) |
 | [0174-dungeon-game](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0174-dungeon-game) |
 | [0200-number-of-islands](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0200-number-of-islands) |
+| [1036-rotting-oranges](https://github.com/vtushar06/Leetcode-Submissions/tree/master/1036-rotting-oranges) |
 | [1791-richest-customer-wealth](https://github.com/vtushar06/Leetcode-Submissions/tree/master/1791-richest-customer-wealth) |
 | [2722-prime-in-diagonal](https://github.com/vtushar06/Leetcode-Submissions/tree/master/2722-prime-in-diagonal) |
 ## Sorting
@@ -612,6 +614,7 @@ This repository is **primarily for personal use**, but feel free to explore and 
 | [0662-maximum-width-of-binary-tree](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0662-maximum-width-of-binary-tree) |
 | [0998-check-completeness-of-a-binary-tree](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0998-check-completeness-of-a-binary-tree) |
 | [1005-univalued-binary-tree](https://github.com/vtushar06/Leetcode-Submissions/tree/master/1005-univalued-binary-tree) |
+| [1036-rotting-oranges](https://github.com/vtushar06/Leetcode-Submissions/tree/master/1036-rotting-oranges) |
 ## Enumeration
 |  |
 | ------- |
