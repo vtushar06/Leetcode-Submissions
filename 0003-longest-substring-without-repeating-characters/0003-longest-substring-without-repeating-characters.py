@@ -11,4 +11,3 @@ class Solution:
             maxlength=max(maxlength,r-l+1)
         return maxlength        
                 
- 
