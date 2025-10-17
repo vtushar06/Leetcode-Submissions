@@ -10,4 +10,3 @@ class Solution:
             listchar.add(s[r])
             maxlength=max(maxlength,r-l+1)
         return maxlength        
-                
