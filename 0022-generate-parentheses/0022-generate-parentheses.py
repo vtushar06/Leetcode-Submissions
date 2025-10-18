@@ -12,8 +12,3 @@ class Solution(object):
         generate(0,0,"")
         return result
 
-
-
-                
-
-        
