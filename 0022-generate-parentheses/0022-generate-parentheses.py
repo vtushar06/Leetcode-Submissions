@@ -11,4 +11,3 @@ class Solution(object):
                 generate(open,close+1,current+")")
         generate(0,0,"")
         return result
-
