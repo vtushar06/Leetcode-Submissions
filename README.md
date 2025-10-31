@@ -266,6 +266,7 @@ This repository is **primarily for personal use**, but feel free to explore and 
 | [0054-spiral-matrix](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0056-merge-intervals) |
+| [0057-insert-interval](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0057-insert-interval) |
 | [0066-plus-one](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0075-sort-colors) |
