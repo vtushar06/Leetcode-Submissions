@@ -332,6 +332,7 @@ This repository is **primarily for personal use**, but feel free to explore and 
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/vtushar06/Leetcode-Submissions/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/vtushar06/Leetcode-Submissions/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/vtushar06/Leetcode-Submissions/tree/master/2210-find-target-indices-after-sorting-array) |
+| [2265-partition-array-according-to-given-pivot](https://github.com/vtushar06/Leetcode-Submissions/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2294-minimum-time-to-complete-trips](https://github.com/vtushar06/Leetcode-Submissions/tree/master/2294-minimum-time-to-complete-trips) |
 | [2469-longest-subsequence-with-limited-sum](https://github.com/vtushar06/Leetcode-Submissions/tree/master/2469-longest-subsequence-with-limited-sum) |
 | [2665-minimum-time-to-repair-cars](https://github.com/vtushar06/Leetcode-Submissions/tree/master/2665-minimum-time-to-repair-cars) |
@@ -436,6 +437,7 @@ This repository is **primarily for personal use**, but feel free to explore and 
 | [0908-middle-of-the-linked-list](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0908-middle-of-the-linked-list) |
 | [1894-merge-strings-alternately](https://github.com/vtushar06/Leetcode-Submissions/tree/master/1894-merge-strings-alternately) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/vtushar06/Leetcode-Submissions/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
+| [2265-partition-array-according-to-given-pivot](https://github.com/vtushar06/Leetcode-Submissions/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/vtushar06/Leetcode-Submissions/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Simulation
 |  |
@@ -451,6 +453,7 @@ This repository is **primarily for personal use**, but feel free to explore and 
 | [2048-build-array-from-permutation](https://github.com/vtushar06/Leetcode-Submissions/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/vtushar06/Leetcode-Submissions/tree/master/2058-concatenation-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/vtushar06/Leetcode-Submissions/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2265-partition-array-according-to-given-pivot](https://github.com/vtushar06/Leetcode-Submissions/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/vtushar06/Leetcode-Submissions/tree/master/2299-merge-nodes-in-between-zeros) |
 ## Hash Table
 |  |
