@@ -208,6 +208,7 @@ This repository is **primarily for personal use**, but feel free to explore and 
 | [0494-target-sum](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0494-target-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0583-delete-operation-for-two-strings) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0747-min-cost-climbing-stairs](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0747-min-cost-climbing-stairs) |
 | [0909-stone-game](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0909-stone-game) |
 | [1013-fibonacci-number](https://github.com/vtushar06/Leetcode-Submissions/tree/master/1013-fibonacci-number) |
@@ -311,6 +312,7 @@ This repository is **primarily for personal use**, but feel free to explore and 
 | [0575-distribute-candies](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0575-distribute-candies) |
 | [0628-maximum-product-of-three-numbers](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0682-baseball-game](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0682-baseball-game) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0724-find-pivot-index](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0724-find-pivot-index) |
 | [0747-min-cost-climbing-stairs](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0747-min-cost-climbing-stairs) |
 | [0792-binary-search](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0792-binary-search) |
@@ -385,6 +387,7 @@ This repository is **primarily for personal use**, but feel free to explore and 
 | [0135-candy](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0135-candy) |
 | [0410-split-array-largest-sum](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0410-split-array-largest-sum) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [1388-greatest-sum-divisible-by-three](https://github.com/vtushar06/Leetcode-Submissions/tree/master/1388-greatest-sum-divisible-by-three) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/vtushar06/Leetcode-Submissions/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/vtushar06/Leetcode-Submissions/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
