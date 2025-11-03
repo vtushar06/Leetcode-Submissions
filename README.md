@@ -186,6 +186,7 @@ This repository is **primarily for personal use**, but feel free to explore and 
 | [0053-maximum-subarray](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0062-unique-paths) |
+| [0064-minimum-path-sum](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0070-climbing-stairs) |
 | [0091-decode-ways](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0091-decode-ways) |
 | [0115-distinct-subsequences](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0115-distinct-subsequences) |
@@ -272,6 +273,7 @@ This repository is **primarily for personal use**, but feel free to explore and 
 | [0055-jump-game](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0057-insert-interval) |
+| [0064-minimum-path-sum](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0075-sort-colors) |
@@ -535,6 +537,7 @@ This repository is **primarily for personal use**, but feel free to explore and 
 | ------- |
 | [0036-valid-sudoku](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0036-valid-sudoku) |
 | [0054-spiral-matrix](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0054-spiral-matrix) |
+| [0064-minimum-path-sum](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0079-word-search) |
 | [0174-dungeon-game](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0174-dungeon-game) |
