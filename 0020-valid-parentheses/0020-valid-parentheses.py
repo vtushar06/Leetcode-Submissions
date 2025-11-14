@@ -11,5 +11,4 @@ class Solution:
                     continue
                 else:
                     return False
-        return len(stack)==0                    
-        
+        return len(stack)==0
