@@ -328,6 +328,7 @@ This repository is **primarily for personal use**, but feel free to explore and 
 | [1221-element-appearing-more-than-25-in-sorted-array](https://github.com/vtushar06/Leetcode-Submissions/tree/master/1221-element-appearing-more-than-25-in-sorted-array) |
 | [1294-range-frequency-queries](https://github.com/vtushar06/Leetcode-Submissions/tree/master/1294-range-frequency-queries) |
 | [1388-greatest-sum-divisible-by-three](https://github.com/vtushar06/Leetcode-Submissions/tree/master/1388-greatest-sum-divisible-by-three) |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/vtushar06/Leetcode-Submissions/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1514-minimum-value-to-get-positive-step-by-step-sum](https://github.com/vtushar06/Leetcode-Submissions/tree/master/1514-minimum-value-to-get-positive-step-by-step-sum) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/vtushar06/Leetcode-Submissions/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1635-number-of-good-pairs](https://github.com/vtushar06/Leetcode-Submissions/tree/master/1635-number-of-good-pairs) |
@@ -498,6 +499,7 @@ This repository is **primarily for personal use**, but feel free to explore and 
 | [0966-binary-subarrays-with-sum](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0966-binary-subarrays-with-sum) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/vtushar06/Leetcode-Submissions/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1294-range-frequency-queries](https://github.com/vtushar06/Leetcode-Submissions/tree/master/1294-range-frequency-queries) |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/vtushar06/Leetcode-Submissions/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1635-number-of-good-pairs](https://github.com/vtushar06/Leetcode-Submissions/tree/master/1635-number-of-good-pairs) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/vtushar06/Leetcode-Submissions/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1813-maximum-erasure-value](https://github.com/vtushar06/Leetcode-Submissions/tree/master/1813-maximum-erasure-value) |
@@ -566,6 +568,7 @@ This repository is **primarily for personal use**, but feel free to explore and 
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1388-greatest-sum-divisible-by-three](https://github.com/vtushar06/Leetcode-Submissions/tree/master/1388-greatest-sum-divisible-by-three) |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/vtushar06/Leetcode-Submissions/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/vtushar06/Leetcode-Submissions/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/vtushar06/Leetcode-Submissions/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/vtushar06/Leetcode-Submissions/tree/master/2210-find-target-indices-after-sorting-array) |
@@ -594,6 +597,7 @@ This repository is **primarily for personal use**, but feel free to explore and 
 ## Counting Sort
 |  |
 | ------- |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/vtushar06/Leetcode-Submissions/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/vtushar06/Leetcode-Submissions/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 ## Divide and Conquer
 |  |
