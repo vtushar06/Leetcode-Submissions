@@ -177,6 +177,7 @@ This repository is **primarily for personal use**, but feel free to explore and 
 | [2812-find-the-maximum-achievable-number](https://github.com/vtushar06/Leetcode-Submissions/tree/master/2812-find-the-maximum-achievable-number) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/vtushar06/Leetcode-Submissions/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/vtushar06/Leetcode-Submissions/tree/master/3172-divisible-and-non-divisible-sums-difference) |
+| [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/vtushar06/Leetcode-Submissions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3567-convert-date-to-binary](https://github.com/vtushar06/Leetcode-Submissions/tree/master/3567-convert-date-to-binary) |
 ## Dynamic Programming
 |  |
@@ -356,6 +357,7 @@ This repository is **primarily for personal use**, but feel free to explore and 
 | [2722-prime-in-diagonal](https://github.com/vtushar06/Leetcode-Submissions/tree/master/2722-prime-in-diagonal) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/vtushar06/Leetcode-Submissions/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3194-find-words-containing-character](https://github.com/vtushar06/Leetcode-Submissions/tree/master/3194-find-words-containing-character) |
+| [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/vtushar06/Leetcode-Submissions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3778-transform-array-by-parity](https://github.com/vtushar06/Leetcode-Submissions/tree/master/3778-transform-array-by-parity) |
 ## Binary Search
 |  |
