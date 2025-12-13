@@ -123,6 +123,7 @@ This repository is **primarily for personal use**, but feel free to explore and 
 | [3379-score-of-a-string](https://github.com/vtushar06/Leetcode-Submissions/tree/master/3379-score-of-a-string) |
 | [3567-convert-date-to-binary](https://github.com/vtushar06/Leetcode-Submissions/tree/master/3567-convert-date-to-binary) |
 | [3636-check-balanced-string](https://github.com/vtushar06/Leetcode-Submissions/tree/master/3636-check-balanced-string) |
+| [3760-maximum-substrings-with-distinct-start](https://github.com/vtushar06/Leetcode-Submissions/tree/master/3760-maximum-substrings-with-distinct-start) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/vtushar06/Leetcode-Submissions/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Math
 |  |
@@ -511,6 +512,7 @@ This repository is **primarily for personal use**, but feel free to explore and 
 | [1813-maximum-erasure-value](https://github.com/vtushar06/Leetcode-Submissions/tree/master/1813-maximum-erasure-value) |
 | [2005-check-if-all-the-integers-in-a-range-are-covered](https://github.com/vtushar06/Leetcode-Submissions/tree/master/2005-check-if-all-the-integers-in-a-range-are-covered) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/vtushar06/Leetcode-Submissions/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
+| [3760-maximum-substrings-with-distinct-start](https://github.com/vtushar06/Leetcode-Submissions/tree/master/3760-maximum-substrings-with-distinct-start) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/vtushar06/Leetcode-Submissions/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Sliding Window
 |  |
