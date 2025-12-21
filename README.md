@@ -169,6 +169,7 @@ This repository is **primarily for personal use**, but feel free to explore and 
 | [2106-find-greatest-common-divisor-of-array](https://github.com/vtushar06/Leetcode-Submissions/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2238-a-number-after-a-double-reversal](https://github.com/vtushar06/Leetcode-Submissions/tree/master/2238-a-number-after-a-double-reversal) |
 | [2383-add-two-integers](https://github.com/vtushar06/Leetcode-Submissions/tree/master/2383-add-two-integers) |
+| [2396-strictly-palindromic-number](https://github.com/vtushar06/Leetcode-Submissions/tree/master/2396-strictly-palindromic-number) |
 | [2491-smallest-even-multiple](https://github.com/vtushar06/Leetcode-Submissions/tree/master/2491-smallest-even-multiple) |
 | [2507-number-of-common-factors](https://github.com/vtushar06/Leetcode-Submissions/tree/master/2507-number-of-common-factors) |
 | [2556-convert-the-temperature](https://github.com/vtushar06/Leetcode-Submissions/tree/master/2556-convert-the-temperature) |
@@ -461,6 +462,7 @@ This repository is **primarily for personal use**, but feel free to explore and 
 | [1894-merge-strings-alternately](https://github.com/vtushar06/Leetcode-Submissions/tree/master/1894-merge-strings-alternately) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/vtushar06/Leetcode-Submissions/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/vtushar06/Leetcode-Submissions/tree/master/2265-partition-array-according-to-given-pivot) |
+| [2396-strictly-palindromic-number](https://github.com/vtushar06/Leetcode-Submissions/tree/master/2396-strictly-palindromic-number) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/vtushar06/Leetcode-Submissions/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Simulation
 |  |
@@ -674,6 +676,7 @@ This repository is **primarily for personal use**, but feel free to explore and 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0292-nim-game) |
+| [2396-strictly-palindromic-number](https://github.com/vtushar06/Leetcode-Submissions/tree/master/2396-strictly-palindromic-number) |
 ## Game Theory
 |  |
 | ------- |
