@@ -179,6 +179,7 @@ This repository is **primarily for personal use**, but feel free to explore and 
 | [2812-find-the-maximum-achievable-number](https://github.com/vtushar06/Leetcode-Submissions/tree/master/2812-find-the-maximum-achievable-number) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/vtushar06/Leetcode-Submissions/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/vtushar06/Leetcode-Submissions/tree/master/3172-divisible-and-non-divisible-sums-difference) |
+| [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/vtushar06/Leetcode-Submissions/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/vtushar06/Leetcode-Submissions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3567-convert-date-to-binary](https://github.com/vtushar06/Leetcode-Submissions/tree/master/3567-convert-date-to-binary) |
 ## Dynamic Programming
@@ -358,6 +359,7 @@ This repository is **primarily for personal use**, but feel free to explore and 
 | [2714-left-and-right-sum-differences](https://github.com/vtushar06/Leetcode-Submissions/tree/master/2714-left-and-right-sum-differences) |
 | [2722-prime-in-diagonal](https://github.com/vtushar06/Leetcode-Submissions/tree/master/2722-prime-in-diagonal) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/vtushar06/Leetcode-Submissions/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
+| [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/vtushar06/Leetcode-Submissions/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3194-find-words-containing-character](https://github.com/vtushar06/Leetcode-Submissions/tree/master/3194-find-words-containing-character) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/vtushar06/Leetcode-Submissions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3778-transform-array-by-parity](https://github.com/vtushar06/Leetcode-Submissions/tree/master/3778-transform-array-by-parity) |
