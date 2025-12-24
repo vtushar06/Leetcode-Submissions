@@ -258,6 +258,7 @@ This repository is **primarily for personal use**, but feel free to explore and 
 | [0405-convert-a-number-to-hexadecimal](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/vtushar06/Leetcode-Submissions/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/vtushar06/Leetcode-Submissions/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/vtushar06/Leetcode-Submissions/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
 ## Array
 |  |
 | ------- |
@@ -346,6 +347,7 @@ This repository is **primarily for personal use**, but feel free to explore and 
 | [1951-find-the-winner-of-the-circular-game](https://github.com/vtushar06/Leetcode-Submissions/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/vtushar06/Leetcode-Submissions/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2005-check-if-all-the-integers-in-a-range-are-covered](https://github.com/vtushar06/Leetcode-Submissions/tree/master/2005-check-if-all-the-integers-in-a-range-are-covered) |
+| [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/vtushar06/Leetcode-Submissions/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
 | [2048-build-array-from-permutation](https://github.com/vtushar06/Leetcode-Submissions/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/vtushar06/Leetcode-Submissions/tree/master/2058-concatenation-of-array) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/vtushar06/Leetcode-Submissions/tree/master/2106-find-greatest-common-divisor-of-array) |
@@ -437,6 +439,7 @@ This repository is **primarily for personal use**, but feel free to explore and 
 | [0257-binary-tree-paths](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0257-binary-tree-paths) |
 | [0494-target-sum](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0494-target-sum) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/vtushar06/Leetcode-Submissions/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/vtushar06/Leetcode-Submissions/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
 ## Two Pointers
 |  |
 | ------- |
@@ -672,6 +675,7 @@ This repository is **primarily for personal use**, but feel free to explore and 
 | ------- |
 | [0204-count-primes](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0204-count-primes) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/vtushar06/Leetcode-Submissions/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/vtushar06/Leetcode-Submissions/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
 | [2083-three-divisors](https://github.com/vtushar06/Leetcode-Submissions/tree/master/2083-three-divisors) |
 | [2507-number-of-common-factors](https://github.com/vtushar06/Leetcode-Submissions/tree/master/2507-number-of-common-factors) |
 ## Brainteaser
