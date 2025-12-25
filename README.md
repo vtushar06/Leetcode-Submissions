@@ -356,6 +356,7 @@ This repository is **primarily for personal use**, but feel free to explore and 
 | [2210-find-target-indices-after-sorting-array](https://github.com/vtushar06/Leetcode-Submissions/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/vtushar06/Leetcode-Submissions/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2294-minimum-time-to-complete-trips](https://github.com/vtushar06/Leetcode-Submissions/tree/master/2294-minimum-time-to-complete-trips) |
+| [2373-largest-local-values-in-a-matrix](https://github.com/vtushar06/Leetcode-Submissions/tree/master/2373-largest-local-values-in-a-matrix) |
 | [2469-longest-subsequence-with-limited-sum](https://github.com/vtushar06/Leetcode-Submissions/tree/master/2469-longest-subsequence-with-limited-sum) |
 | [2665-minimum-time-to-repair-cars](https://github.com/vtushar06/Leetcode-Submissions/tree/master/2665-minimum-time-to-repair-cars) |
 | [2714-left-and-right-sum-differences](https://github.com/vtushar06/Leetcode-Submissions/tree/master/2714-left-and-right-sum-differences) |
@@ -562,6 +563,7 @@ This repository is **primarily for personal use**, but feel free to explore and 
 | [0200-number-of-islands](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0200-number-of-islands) |
 | [1036-rotting-oranges](https://github.com/vtushar06/Leetcode-Submissions/tree/master/1036-rotting-oranges) |
 | [1791-richest-customer-wealth](https://github.com/vtushar06/Leetcode-Submissions/tree/master/1791-richest-customer-wealth) |
+| [2373-largest-local-values-in-a-matrix](https://github.com/vtushar06/Leetcode-Submissions/tree/master/2373-largest-local-values-in-a-matrix) |
 | [2722-prime-in-diagonal](https://github.com/vtushar06/Leetcode-Submissions/tree/master/2722-prime-in-diagonal) |
 ## Sorting
 |  |
