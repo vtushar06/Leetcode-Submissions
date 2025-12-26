@@ -117,6 +117,7 @@ This repository is **primarily for personal use**, but feel free to explore and 
 | [1818-maximum-score-from-removing-substrings](https://github.com/vtushar06/Leetcode-Submissions/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1894-merge-strings-alternately](https://github.com/vtushar06/Leetcode-Submissions/tree/master/1894-merge-strings-alternately) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/vtushar06/Leetcode-Submissions/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
+| [2125-number-of-laser-beams-in-a-bank](https://github.com/vtushar06/Leetcode-Submissions/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/vtushar06/Leetcode-Submissions/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2235-capitalize-the-title](https://github.com/vtushar06/Leetcode-Submissions/tree/master/2235-capitalize-the-title) |
 | [3194-find-words-containing-character](https://github.com/vtushar06/Leetcode-Submissions/tree/master/3194-find-words-containing-character) |
@@ -167,6 +168,7 @@ This repository is **primarily for personal use**, but feel free to explore and 
 | [1993-sum-of-all-subset-xor-totals](https://github.com/vtushar06/Leetcode-Submissions/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2083-three-divisors](https://github.com/vtushar06/Leetcode-Submissions/tree/master/2083-three-divisors) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/vtushar06/Leetcode-Submissions/tree/master/2106-find-greatest-common-divisor-of-array) |
+| [2125-number-of-laser-beams-in-a-bank](https://github.com/vtushar06/Leetcode-Submissions/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2238-a-number-after-a-double-reversal](https://github.com/vtushar06/Leetcode-Submissions/tree/master/2238-a-number-after-a-double-reversal) |
 | [2383-add-two-integers](https://github.com/vtushar06/Leetcode-Submissions/tree/master/2383-add-two-integers) |
 | [2396-strictly-palindromic-number](https://github.com/vtushar06/Leetcode-Submissions/tree/master/2396-strictly-palindromic-number) |
@@ -351,6 +353,7 @@ This repository is **primarily for personal use**, but feel free to explore and 
 | [2048-build-array-from-permutation](https://github.com/vtushar06/Leetcode-Submissions/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/vtushar06/Leetcode-Submissions/tree/master/2058-concatenation-of-array) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/vtushar06/Leetcode-Submissions/tree/master/2106-find-greatest-common-divisor-of-array) |
+| [2125-number-of-laser-beams-in-a-bank](https://github.com/vtushar06/Leetcode-Submissions/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/vtushar06/Leetcode-Submissions/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/vtushar06/Leetcode-Submissions/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/vtushar06/Leetcode-Submissions/tree/master/2210-find-target-indices-after-sorting-array) |
@@ -563,6 +566,7 @@ This repository is **primarily for personal use**, but feel free to explore and 
 | [0200-number-of-islands](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0200-number-of-islands) |
 | [1036-rotting-oranges](https://github.com/vtushar06/Leetcode-Submissions/tree/master/1036-rotting-oranges) |
 | [1791-richest-customer-wealth](https://github.com/vtushar06/Leetcode-Submissions/tree/master/1791-richest-customer-wealth) |
+| [2125-number-of-laser-beams-in-a-bank](https://github.com/vtushar06/Leetcode-Submissions/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2373-largest-local-values-in-a-matrix](https://github.com/vtushar06/Leetcode-Submissions/tree/master/2373-largest-local-values-in-a-matrix) |
 | [2722-prime-in-diagonal](https://github.com/vtushar06/Leetcode-Submissions/tree/master/2722-prime-in-diagonal) |
 ## Sorting
