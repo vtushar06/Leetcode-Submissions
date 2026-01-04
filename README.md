@@ -184,6 +184,7 @@ This repository is **primarily for personal use**, but feel free to explore and 
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/vtushar06/Leetcode-Submissions/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/vtushar06/Leetcode-Submissions/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/vtushar06/Leetcode-Submissions/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3289-the-two-sneaky-numbers-of-digitville](https://github.com/vtushar06/Leetcode-Submissions/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/vtushar06/Leetcode-Submissions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3567-convert-date-to-binary](https://github.com/vtushar06/Leetcode-Submissions/tree/master/3567-convert-date-to-binary) |
 ## Dynamic Programming
@@ -369,6 +370,7 @@ This repository is **primarily for personal use**, but feel free to explore and 
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/vtushar06/Leetcode-Submissions/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/vtushar06/Leetcode-Submissions/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3194-find-words-containing-character](https://github.com/vtushar06/Leetcode-Submissions/tree/master/3194-find-words-containing-character) |
+| [3289-the-two-sneaky-numbers-of-digitville](https://github.com/vtushar06/Leetcode-Submissions/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/vtushar06/Leetcode-Submissions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3778-transform-array-by-parity](https://github.com/vtushar06/Leetcode-Submissions/tree/master/3778-transform-array-by-parity) |
 ## Binary Search
@@ -525,6 +527,7 @@ This repository is **primarily for personal use**, but feel free to explore and 
 | [1813-maximum-erasure-value](https://github.com/vtushar06/Leetcode-Submissions/tree/master/1813-maximum-erasure-value) |
 | [2005-check-if-all-the-integers-in-a-range-are-covered](https://github.com/vtushar06/Leetcode-Submissions/tree/master/2005-check-if-all-the-integers-in-a-range-are-covered) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/vtushar06/Leetcode-Submissions/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
+| [3289-the-two-sneaky-numbers-of-digitville](https://github.com/vtushar06/Leetcode-Submissions/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/vtushar06/Leetcode-Submissions/tree/master/3760-maximum-substrings-with-distinct-start) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/vtushar06/Leetcode-Submissions/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Sliding Window
