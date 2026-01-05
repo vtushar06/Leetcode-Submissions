@@ -558,6 +558,7 @@ This repository is **primarily for personal use**, but feel free to explore and 
 | [0530-minimum-absolute-difference-in-bst](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0662-maximum-width-of-binary-tree) |
 | [1005-univalued-binary-tree](https://github.com/vtushar06/Leetcode-Submissions/tree/master/1005-univalued-binary-tree) |
+| [1038-binary-search-tree-to-greater-sum-tree](https://github.com/vtushar06/Leetcode-Submissions/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1079-sum-of-root-to-leaf-binary-numbers](https://github.com/vtushar06/Leetcode-Submissions/tree/master/1079-sum-of-root-to-leaf-binary-numbers) |
 ## Matrix
 |  |
@@ -762,6 +763,7 @@ This repository is **primarily for personal use**, but feel free to explore and 
 | [0783-search-in-a-binary-search-tree](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0783-search-in-a-binary-search-tree) |
 | [0998-check-completeness-of-a-binary-tree](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0998-check-completeness-of-a-binary-tree) |
 | [1005-univalued-binary-tree](https://github.com/vtushar06/Leetcode-Submissions/tree/master/1005-univalued-binary-tree) |
+| [1038-binary-search-tree-to-greater-sum-tree](https://github.com/vtushar06/Leetcode-Submissions/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1079-sum-of-root-to-leaf-binary-numbers](https://github.com/vtushar06/Leetcode-Submissions/tree/master/1079-sum-of-root-to-leaf-binary-numbers) |
 ## Binary Tree
 |  |
@@ -787,6 +789,7 @@ This repository is **primarily for personal use**, but feel free to explore and 
 | [0783-search-in-a-binary-search-tree](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0783-search-in-a-binary-search-tree) |
 | [0998-check-completeness-of-a-binary-tree](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0998-check-completeness-of-a-binary-tree) |
 | [1005-univalued-binary-tree](https://github.com/vtushar06/Leetcode-Submissions/tree/master/1005-univalued-binary-tree) |
+| [1038-binary-search-tree-to-greater-sum-tree](https://github.com/vtushar06/Leetcode-Submissions/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1079-sum-of-root-to-leaf-binary-numbers](https://github.com/vtushar06/Leetcode-Submissions/tree/master/1079-sum-of-root-to-leaf-binary-numbers) |
 ## Binary Search Tree
 |  |
@@ -795,6 +798,7 @@ This repository is **primarily for personal use**, but feel free to explore and 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0783-search-in-a-binary-search-tree) |
+| [1038-binary-search-tree-to-greater-sum-tree](https://github.com/vtushar06/Leetcode-Submissions/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 ## Combinatorics
 |  |
 | ------- |
