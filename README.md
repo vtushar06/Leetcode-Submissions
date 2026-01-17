@@ -184,6 +184,7 @@ This repository is **primarily for personal use**, but feel free to explore and 
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/vtushar06/Leetcode-Submissions/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/vtushar06/Leetcode-Submissions/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/vtushar06/Leetcode-Submissions/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/vtushar06/Leetcode-Submissions/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/vtushar06/Leetcode-Submissions/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/vtushar06/Leetcode-Submissions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3567-convert-date-to-binary](https://github.com/vtushar06/Leetcode-Submissions/tree/master/3567-convert-date-to-binary) |
@@ -372,6 +373,7 @@ This repository is **primarily for personal use**, but feel free to explore and 
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/vtushar06/Leetcode-Submissions/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/vtushar06/Leetcode-Submissions/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3194-find-words-containing-character](https://github.com/vtushar06/Leetcode-Submissions/tree/master/3194-find-words-containing-character) |
+| [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/vtushar06/Leetcode-Submissions/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/vtushar06/Leetcode-Submissions/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/vtushar06/Leetcode-Submissions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3701-compute-alternating-sum](https://github.com/vtushar06/Leetcode-Submissions/tree/master/3701-compute-alternating-sum) |
@@ -496,6 +498,7 @@ This repository is **primarily for personal use**, but feel free to explore and 
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/vtushar06/Leetcode-Submissions/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/vtushar06/Leetcode-Submissions/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/vtushar06/Leetcode-Submissions/tree/master/2299-merge-nodes-in-between-zeros) |
+| [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/vtushar06/Leetcode-Submissions/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3701-compute-alternating-sum](https://github.com/vtushar06/Leetcode-Submissions/tree/master/3701-compute-alternating-sum) |
 ## Hash Table
 |  |
@@ -812,4 +815,8 @@ This repository is **primarily for personal use**, but feel free to explore and 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0200-number-of-islands) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/vtushar06/Leetcode-Submissions/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 <!---LeetCode Topics End-->
