@@ -354,6 +354,7 @@ This repository is **primarily for personal use**, but feel free to explore and 
 | [1951-find-the-winner-of-the-circular-game](https://github.com/vtushar06/Leetcode-Submissions/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/vtushar06/Leetcode-Submissions/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2005-check-if-all-the-integers-in-a-range-are-covered](https://github.com/vtushar06/Leetcode-Submissions/tree/master/2005-check-if-all-the-integers-in-a-range-are-covered) |
+| [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/vtushar06/Leetcode-Submissions/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/vtushar06/Leetcode-Submissions/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
 | [2048-build-array-from-permutation](https://github.com/vtushar06/Leetcode-Submissions/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/vtushar06/Leetcode-Submissions/tree/master/2058-concatenation-of-array) |
@@ -418,6 +419,7 @@ This repository is **primarily for personal use**, but feel free to explore and 
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [1388-greatest-sum-divisible-by-three](https://github.com/vtushar06/Leetcode-Submissions/tree/master/1388-greatest-sum-divisible-by-three) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/vtushar06/Leetcode-Submissions/tree/master/1818-maximum-score-from-removing-substrings) |
+| [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/vtushar06/Leetcode-Submissions/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/vtushar06/Leetcode-Submissions/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2469-longest-subsequence-with-limited-sum](https://github.com/vtushar06/Leetcode-Submissions/tree/master/2469-longest-subsequence-with-limited-sum) |
 ## Prefix Sum
@@ -605,6 +607,7 @@ This repository is **primarily for personal use**, but feel free to explore and 
 | [1388-greatest-sum-divisible-by-three](https://github.com/vtushar06/Leetcode-Submissions/tree/master/1388-greatest-sum-divisible-by-three) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/vtushar06/Leetcode-Submissions/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/vtushar06/Leetcode-Submissions/tree/master/1669-minimum-cost-to-cut-a-stick) |
+| [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/vtushar06/Leetcode-Submissions/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/vtushar06/Leetcode-Submissions/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/vtushar06/Leetcode-Submissions/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2469-longest-subsequence-with-limited-sum](https://github.com/vtushar06/Leetcode-Submissions/tree/master/2469-longest-subsequence-with-limited-sum) |
@@ -633,6 +636,7 @@ This repository is **primarily for personal use**, but feel free to explore and 
 |  |
 | ------- |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/vtushar06/Leetcode-Submissions/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/vtushar06/Leetcode-Submissions/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/vtushar06/Leetcode-Submissions/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 ## Divide and Conquer
 |  |
