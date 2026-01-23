@@ -127,6 +127,7 @@ This repository is **primarily for personal use**, but feel free to explore and 
 | [3567-convert-date-to-binary](https://github.com/vtushar06/Leetcode-Submissions/tree/master/3567-convert-date-to-binary) |
 | [3636-check-balanced-string](https://github.com/vtushar06/Leetcode-Submissions/tree/master/3636-check-balanced-string) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/vtushar06/Leetcode-Submissions/tree/master/3760-maximum-substrings-with-distinct-start) |
+| [3794-reverse-string-prefix](https://github.com/vtushar06/Leetcode-Submissions/tree/master/3794-reverse-string-prefix) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/vtushar06/Leetcode-Submissions/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Math
 |  |
@@ -484,6 +485,7 @@ This repository is **primarily for personal use**, but feel free to explore and 
 | [2265-partition-array-according-to-given-pivot](https://github.com/vtushar06/Leetcode-Submissions/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2396-strictly-palindromic-number](https://github.com/vtushar06/Leetcode-Submissions/tree/master/2396-strictly-palindromic-number) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/vtushar06/Leetcode-Submissions/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
+| [3794-reverse-string-prefix](https://github.com/vtushar06/Leetcode-Submissions/tree/master/3794-reverse-string-prefix) |
 ## Simulation
 |  |
 | ------- |
