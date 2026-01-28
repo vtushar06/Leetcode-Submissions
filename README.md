@@ -123,6 +123,7 @@ This repository is **primarily for personal use**, but feel free to explore and 
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/vtushar06/Leetcode-Submissions/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/vtushar06/Leetcode-Submissions/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2235-capitalize-the-title](https://github.com/vtushar06/Leetcode-Submissions/tree/master/2235-capitalize-the-title) |
+| [2942-find-words-containing-character](https://github.com/vtushar06/Leetcode-Submissions/tree/master/2942-find-words-containing-character) |
 | [3194-find-words-containing-character](https://github.com/vtushar06/Leetcode-Submissions/tree/master/3194-find-words-containing-character) |
 | [3379-score-of-a-string](https://github.com/vtushar06/Leetcode-Submissions/tree/master/3379-score-of-a-string) |
 | [3567-convert-date-to-binary](https://github.com/vtushar06/Leetcode-Submissions/tree/master/3567-convert-date-to-binary) |
@@ -375,6 +376,7 @@ This repository is **primarily for personal use**, but feel free to explore and 
 | [2722-prime-in-diagonal](https://github.com/vtushar06/Leetcode-Submissions/tree/master/2722-prime-in-diagonal) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/vtushar06/Leetcode-Submissions/tree/master/2798-number-of-employees-who-met-the-target) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/vtushar06/Leetcode-Submissions/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
+| [2942-find-words-containing-character](https://github.com/vtushar06/Leetcode-Submissions/tree/master/2942-find-words-containing-character) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/vtushar06/Leetcode-Submissions/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3194-find-words-containing-character](https://github.com/vtushar06/Leetcode-Submissions/tree/master/3194-find-words-containing-character) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/vtushar06/Leetcode-Submissions/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
