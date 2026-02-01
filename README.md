@@ -111,6 +111,7 @@ This repository is **primarily for personal use**, but feel free to explore and 
 | [0920-uncommon-words-from-two-sentences](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1021-remove-outermost-parentheses](https://github.com/vtushar06/Leetcode-Submissions/tree/master/1021-remove-outermost-parentheses) |
 | [1205-defanging-an-ip-address](https://github.com/vtushar06/Leetcode-Submissions/tree/master/1205-defanging-an-ip-address) |
+| [1221-split-a-string-in-balanced-strings](https://github.com/vtushar06/Leetcode-Submissions/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1250-longest-common-subsequence](https://github.com/vtushar06/Leetcode-Submissions/tree/master/1250-longest-common-subsequence) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/vtushar06/Leetcode-Submissions/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/vtushar06/Leetcode-Submissions/tree/master/1537-maximum-score-after-splitting-a-string) |
@@ -422,6 +423,7 @@ This repository is **primarily for personal use**, but feel free to explore and 
 | [0410-split-array-largest-sum](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0410-split-array-largest-sum) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [1221-split-a-string-in-balanced-strings](https://github.com/vtushar06/Leetcode-Submissions/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1388-greatest-sum-divisible-by-three](https://github.com/vtushar06/Leetcode-Submissions/tree/master/1388-greatest-sum-divisible-by-three) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/vtushar06/Leetcode-Submissions/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/vtushar06/Leetcode-Submissions/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
@@ -624,6 +626,7 @@ This repository is **primarily for personal use**, but feel free to explore and 
 | ------- |
 | [0169-majority-element](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0169-majority-element) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0920-uncommon-words-from-two-sentences) |
+| [1221-split-a-string-in-balanced-strings](https://github.com/vtushar06/Leetcode-Submissions/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1635-number-of-good-pairs](https://github.com/vtushar06/Leetcode-Submissions/tree/master/1635-number-of-good-pairs) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/vtushar06/Leetcode-Submissions/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/vtushar06/Leetcode-Submissions/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
