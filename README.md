@@ -382,6 +382,7 @@ This repository is **primarily for personal use**, but feel free to explore and 
 | [3194-find-words-containing-character](https://github.com/vtushar06/Leetcode-Submissions/tree/master/3194-find-words-containing-character) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/vtushar06/Leetcode-Submissions/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/vtushar06/Leetcode-Submissions/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
+| [3379-transformed-array](https://github.com/vtushar06/Leetcode-Submissions/tree/master/3379-transformed-array) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/vtushar06/Leetcode-Submissions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3701-compute-alternating-sum](https://github.com/vtushar06/Leetcode-Submissions/tree/master/3701-compute-alternating-sum) |
 | [3778-transform-array-by-parity](https://github.com/vtushar06/Leetcode-Submissions/tree/master/3778-transform-array-by-parity) |
@@ -509,6 +510,7 @@ This repository is **primarily for personal use**, but feel free to explore and 
 | [2265-partition-array-according-to-given-pivot](https://github.com/vtushar06/Leetcode-Submissions/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/vtushar06/Leetcode-Submissions/tree/master/2299-merge-nodes-in-between-zeros) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/vtushar06/Leetcode-Submissions/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
+| [3379-transformed-array](https://github.com/vtushar06/Leetcode-Submissions/tree/master/3379-transformed-array) |
 | [3701-compute-alternating-sum](https://github.com/vtushar06/Leetcode-Submissions/tree/master/3701-compute-alternating-sum) |
 ## Hash Table
 |  |
