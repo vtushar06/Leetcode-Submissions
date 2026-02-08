@@ -579,6 +579,7 @@ This repository is **primarily for personal use**, but feel free to explore and 
 | [1005-univalued-binary-tree](https://github.com/vtushar06/Leetcode-Submissions/tree/master/1005-univalued-binary-tree) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/vtushar06/Leetcode-Submissions/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1079-sum-of-root-to-leaf-binary-numbers](https://github.com/vtushar06/Leetcode-Submissions/tree/master/1079-sum-of-root-to-leaf-binary-numbers) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/vtushar06/Leetcode-Submissions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Matrix
 |  |
 | ------- |
@@ -787,6 +788,7 @@ This repository is **primarily for personal use**, but feel free to explore and 
 | [1005-univalued-binary-tree](https://github.com/vtushar06/Leetcode-Submissions/tree/master/1005-univalued-binary-tree) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/vtushar06/Leetcode-Submissions/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1079-sum-of-root-to-leaf-binary-numbers](https://github.com/vtushar06/Leetcode-Submissions/tree/master/1079-sum-of-root-to-leaf-binary-numbers) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/vtushar06/Leetcode-Submissions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -813,6 +815,7 @@ This repository is **primarily for personal use**, but feel free to explore and 
 | [1005-univalued-binary-tree](https://github.com/vtushar06/Leetcode-Submissions/tree/master/1005-univalued-binary-tree) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/vtushar06/Leetcode-Submissions/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1079-sum-of-root-to-leaf-binary-numbers](https://github.com/vtushar06/Leetcode-Submissions/tree/master/1079-sum-of-root-to-leaf-binary-numbers) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/vtushar06/Leetcode-Submissions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Search Tree
 |  |
 | ------- |
