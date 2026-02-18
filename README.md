@@ -94,6 +94,7 @@ This repository is **primarily for personal use**, but feel free to explore and 
 | [0115-distinct-subsequences](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0125-valid-palindrome) |
 | [0131-palindrome-partitioning](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0131-palindrome-partitioning) |
+| [0168-excel-sheet-column-title](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0168-excel-sheet-column-title) |
 | [0242-valid-anagram](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0257-binary-tree-paths) |
 | [0290-word-pattern](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0290-word-pattern) |
@@ -147,6 +148,7 @@ This repository is **primarily for personal use**, but feel free to explore and 
 | [0067-add-binary](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0070-climbing-stairs) |
+| [0168-excel-sheet-column-title](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0168-excel-sheet-column-title) |
 | [0172-factorial-trailing-zeroes](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0172-factorial-trailing-zeroes) |
 | [0202-happy-number](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0204-count-primes) |
