@@ -845,4 +845,8 @@ This repository is **primarily for personal use**, but feel free to explore and 
 |  |
 | ------- |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/vtushar06/Leetcode-Submissions/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
+## Database
+|  |
+| ------- |
+| [0197-rising-temperature](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0197-rising-temperature) |
 <!---LeetCode Topics End-->
