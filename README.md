@@ -848,5 +848,6 @@ This repository is **primarily for personal use**, but feel free to explore and 
 ## Database
 |  |
 | ------- |
+| [0175-combine-two-tables](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0175-combine-two-tables) |
 | [0197-rising-temperature](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0197-rising-temperature) |
 <!---LeetCode Topics End-->
