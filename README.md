@@ -850,6 +850,7 @@ This repository is **primarily for personal use**, but feel free to explore and 
 | ------- |
 | [0175-combine-two-tables](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0175-combine-two-tables) |
 | [0182-duplicate-emails](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0182-duplicate-emails) |
+| [0196-delete-duplicate-emails](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0196-delete-duplicate-emails) |
 | [0197-rising-temperature](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0197-rising-temperature) |
 | [0586-customer-placing-the-largest-number-of-orders](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0586-customer-placing-the-largest-number-of-orders) |
 <!---LeetCode Topics End-->
