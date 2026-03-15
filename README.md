@@ -861,4 +861,5 @@ This repository is **primarily for personal use**, but feel free to explore and 
 |  |
 | ------- |
 | [1114-print-in-order](https://github.com/vtushar06/Leetcode-Submissions/tree/master/1114-print-in-order) |
+| [1115-print-foobar-alternately](https://github.com/vtushar06/Leetcode-Submissions/tree/master/1115-print-foobar-alternately) |
 <!---LeetCode Topics End-->
