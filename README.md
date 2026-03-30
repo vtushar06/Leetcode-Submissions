@@ -122,6 +122,7 @@ This repository is **primarily for personal use**, but feel free to explore and 
 | [1816-truncate-sentence](https://github.com/vtushar06/Leetcode-Submissions/tree/master/1816-truncate-sentence) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/vtushar06/Leetcode-Submissions/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1894-merge-strings-alternately](https://github.com/vtushar06/Leetcode-Submissions/tree/master/1894-merge-strings-alternately) |
+| [2000-reverse-prefix-of-word](https://github.com/vtushar06/Leetcode-Submissions/tree/master/2000-reverse-prefix-of-word) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/vtushar06/Leetcode-Submissions/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/vtushar06/Leetcode-Submissions/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/vtushar06/Leetcode-Submissions/tree/master/2137-final-value-of-variable-after-performing-operations) |
@@ -494,6 +495,7 @@ This repository is **primarily for personal use**, but feel free to explore and 
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0528-swapping-nodes-in-a-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0908-middle-of-the-linked-list) |
 | [1894-merge-strings-alternately](https://github.com/vtushar06/Leetcode-Submissions/tree/master/1894-merge-strings-alternately) |
+| [2000-reverse-prefix-of-word](https://github.com/vtushar06/Leetcode-Submissions/tree/master/2000-reverse-prefix-of-word) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/vtushar06/Leetcode-Submissions/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/vtushar06/Leetcode-Submissions/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2396-strictly-palindromic-number](https://github.com/vtushar06/Leetcode-Submissions/tree/master/2396-strictly-palindromic-number) |
@@ -764,6 +766,7 @@ This repository is **primarily for personal use**, but feel free to explore and 
 | [0682-baseball-game](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0682-baseball-game) |
 | [1021-remove-outermost-parentheses](https://github.com/vtushar06/Leetcode-Submissions/tree/master/1021-remove-outermost-parentheses) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/vtushar06/Leetcode-Submissions/tree/master/1818-maximum-score-from-removing-substrings) |
+| [2000-reverse-prefix-of-word](https://github.com/vtushar06/Leetcode-Submissions/tree/master/2000-reverse-prefix-of-word) |
 | [2573-remove-nodes-from-linked-list](https://github.com/vtushar06/Leetcode-Submissions/tree/master/2573-remove-nodes-from-linked-list) |
 ## Monotonic Stack
 |  |
