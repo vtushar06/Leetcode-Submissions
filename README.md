@@ -870,6 +870,7 @@ This repository is **primarily for personal use**, but feel free to explore and 
 | [0610-triangle-judgement](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0610-triangle-judgement) |
 | [0619-biggest-single-number](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0619-biggest-single-number) |
 | [0620-not-boring-movies](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0620-not-boring-movies) |
+| [1211-queries-quality-and-percentage](https://github.com/vtushar06/Leetcode-Submissions/tree/master/1211-queries-quality-and-percentage) |
 | [1741-find-total-time-spent-by-each-employee](https://github.com/vtushar06/Leetcode-Submissions/tree/master/1741-find-total-time-spent-by-each-employee) |
 ## Concurrency
 |  |
