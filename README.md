@@ -872,6 +872,7 @@ This repository is **primarily for personal use**, but feel free to explore and 
 | [0620-not-boring-movies](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0620-not-boring-movies) |
 | [1068-product-sales-analysis-i](https://github.com/vtushar06/Leetcode-Submissions/tree/master/1068-product-sales-analysis-i) |
 | [1211-queries-quality-and-percentage](https://github.com/vtushar06/Leetcode-Submissions/tree/master/1211-queries-quality-and-percentage) |
+| [1251-average-selling-price](https://github.com/vtushar06/Leetcode-Submissions/tree/master/1251-average-selling-price) |
 | [1484-group-sold-products-by-the-date](https://github.com/vtushar06/Leetcode-Submissions/tree/master/1484-group-sold-products-by-the-date) |
 | [1741-find-total-time-spent-by-each-employee](https://github.com/vtushar06/Leetcode-Submissions/tree/master/1741-find-total-time-spent-by-each-employee) |
 ## Concurrency
