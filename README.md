@@ -871,6 +871,7 @@ This repository is **primarily for personal use**, but feel free to explore and 
 | [0619-biggest-single-number](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0619-biggest-single-number) |
 | [0620-not-boring-movies](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0620-not-boring-movies) |
 | [0627-swap-sex-of-employees](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0627-swap-sex-of-employees) |
+| [1050-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/vtushar06/Leetcode-Submissions/tree/master/1050-actors-and-directors-who-cooperated-at-least-three-times) |
 | [1068-product-sales-analysis-i](https://github.com/vtushar06/Leetcode-Submissions/tree/master/1068-product-sales-analysis-i) |
 | [1211-queries-quality-and-percentage](https://github.com/vtushar06/Leetcode-Submissions/tree/master/1211-queries-quality-and-percentage) |
 | [1251-average-selling-price](https://github.com/vtushar06/Leetcode-Submissions/tree/master/1251-average-selling-price) |
