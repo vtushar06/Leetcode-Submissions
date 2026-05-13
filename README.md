@@ -863,6 +863,7 @@ This repository is **primarily for personal use**, but feel free to explore and 
 | [0511-game-play-analysis-i](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0511-game-play-analysis-i) |
 | [0577-employee-bonus](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0577-employee-bonus) |
 | [0584-find-customer-referee](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0584-find-customer-referee) |
+| [0585-investments-in-2016](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0585-investments-in-2016) |
 | [0586-customer-placing-the-largest-number-of-orders](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0586-customer-placing-the-largest-number-of-orders) |
 | [0595-big-countries](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0595-big-countries) |
 | [0596-classes-with-at-least-5-students](https://github.com/vtushar06/Leetcode-Submissions/tree/master/0596-classes-with-at-least-5-students) |
